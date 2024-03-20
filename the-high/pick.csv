@@ -1,0 +1,333 @@
+ID,TYPE,SYMBOL,COMPANY,INDUSTRY,EXCHANGE,ENTRYPRICE,TARGETPRICE,STRIKEPRICE,STOPLOSS,POTENTIALRETURN,STARTDATE,HOLDPERIOD,RISK,STATUS,PICKPOSITION,CLOSEDATE,CLOSEREASON,PERCENTGAIN,CLOSEDEMAILSENT,LASTTRADE,UNDERLYING_STOCK_SYMBOL,PORTFOLIOGAIN,COMMENTS,,QPICK,STARTDATETEMP
+73905,Buy Calls,AAPL,AAPL Apr 30 2021 130 Call (Weekly),,,2.06,2.93,130,0.75,,2021-04-05,,,ACTIVE,Closed,2021-04-07,TARGET REACHED,42,YES,,AAPL,420,AAPL calls are hot early on and AAPL can go another 10% from here in April.,,NO,NULL
+73900,Buy Calls,AAPL,AAPL Apr 30 2021 135 Call (Weekly),,,2.1,3.15,135,0.8,,2021-04-08,,,ACTIVE,Closed,2021-04-09,TARGET REACHED,25,YES,,AAPL,250,AAPL has triggered once again and a play towards $138 - $142 is in play over the next few weeks.,,NO,NULL
+74097,Buy Calls,AAPL,AAPL Aug 14 2020 465 Call (Weekly),,,3.9,6.9,465,1.5,,2020-08-06,,,ACTIVE,Closed,2020-08-06,STOPPED OUT,-57,YES,,AAPL,-570,"AAPL has triggered and we have a move into the 460""s range over the next week. Investors continue to pour into AAPL.",,NO,NULL
+73821,Buy Calls,AAPL,AAPL Aug 6 2021 150 Call (Weekly),,,2.67,3.8,150,1,,2021-07-12,,,ACTIVE,Closed,2021-07-14,TARGET REACHED,43,YES,,AAPL,430,Another entry opportunity is we roll up on AAPL,,NO,NULL
+74003,Buy Calls,AAPL,AAPL Dec 18 2020 126 Call,,,1.97,3.95,126,0.42,,2020-12-01,,,ACTIVE,Closed,2020-12-01,STOPPED OUT,-73,YES,,AAPL,-730,AAPL has triggered here for an explosive move towards $130 short term.,,NO,NULL
+73957,Buy Calls,AAPL,AAPL Feb 5 2021 150 Call (Weekly),,,3.35,5.85,150,1.35,,2021-01-26,,,ACTIVE,Closed,2021-01-27,TARGET REACHED,15,YES,,AAPL,150,"On this pullback, we add appl here.  Great entry / expected momentum this week ",,NO,NULL
+73983,Buy Calls,AAPL,AAPL Jan 15 2021 140 Call,,,2.5,4.25,140,0.95,,2020-12-28,,,ACTIVE,Closed,2020-12-28,STOPPED OUT,-55,YES,,AAPL,-550,Should be a monster week for big tech to end the year.,,NO,NULL
+73841,Buy Calls,AAPL,AAPL Jul 16 2021 135 Call,,,1.45,2.25,135,0.5,,2021-06-15,,,ACTIVE,Closed,2021-06-23,TARGET REACHED,55,YES,,AAPL,550,"AAPL has triggered, strong upside call volume through July, as well as strong price activity.",,NO,NULL
+73826,Buy Calls,AAPL,AAPL Jul 30 2021 145 Call (Weekly),,,2.35,3.75,145,0.75,,2021-07-06,,,ACTIVE,Closed,2021-07-07,TARGET REACHED,60,YES,,AAPL,600,Monster move towards $150 in play short term,,NO,NULL
+73823,Buy Calls,AAPL,AAPL Jul 30 2021 147 Call (Weekly),,,2.19,3.51,147,0.75,,2021-07-08,,,ACTIVE,Closed,2021-07-09,TARGET REACHED,60,YES,,AAPL,600,AAPL is a gift here,,NO,NULL
+73816,Buy Calls,AAPL,AAPL Jul 30 2021 152.5 Call (Weekly),,,1.95,3.9,152.5,0.2,,2021-07-16,,,ACTIVE,Closed,2021-07-16,STOPPED OUT,-74,YES,,AAPL,-740,"Cannot ignore this set-up and this is for the following week. Once again, we strike with AAPL ",,NO,NULL
+73873,Buy Calls,AAPL,AAPL Jun 4 2021 130 Call (Weekly),,,1.63,2.95,130,0.25,,2021-05-11,,,ACTIVE,Closed,2021-05-11,STOPPED OUT,-76,YES,,AAPL,-760,One more,,NO,NULL
+73936,Buy Calls,AAPL,AAPL Mar 12 2021 130 Call (Weekly),,,1.82,3.65,130,0.65,,2021-02-23,,,ACTIVE,Closed,2021-03-01,STOPPED OUT,63,YES,,AAPL,630,"AAPL trigger, outstanding value / opportunity. ",,NO,NULL
+73881,Buy Calls,AAPL,AAPL May 21 2021 137 Call,,,1.32,2.65,137,,,2021-05-03,,,ACTIVE,Closed,2021-05-03,STOPPED OUT,,YES,,AAPL,0,AAPL bounce towards $140 in play this week.,,NO,NULL
+73894,Buy Calls,AAPL,AAPL May 7 2021 140 Call (Weekly),,,2.47,4.5,140,0.9,,2021-04-15,,,ACTIVE,Closed,2021-04-15,STOPPED OUT,-62,YES,,AAPL,-620,Strong value with AAPL 140's on May 7th weeklies.  AAPL is headed towards $140 plus short term.,,NO,NULL
+74040,Buy Calls,AAPL,AAPL Nov 20 2020 130 Call,,,3.55,7.1,130,,,2020-10-12,,,ACTIVE,Closed,2020-10-12,STOPPED OUT,-100,YES,,AAPL,-1000,We move out over a month for this trade but AAPL has triggered with a move into the $130's over the next few weeks.,,NO,NULL
+74058,Buy Calls,AAPL,AAPL Oct 9 2020 117.5 Call (Weekly),,,1.97,2.33,117.5,0.5,,2020-09-21,,,ACTIVE,Closed,2020-09-28,TARGET REACHED,18,YES,,AAPL,180,What we outlined this morning for AAPL is occurring.  $120 short term in play.,,NO,NULL
+73790,Buy Calls,AAPL,AAPL Sep 17 2021 150 Call,,,2.45,3.95,150,0.92,,2021-08-12,,,ACTIVE,Closed,2021-08-16,TARGET REACHED,62,YES,,AAPL,620,Back into apple for strong value here,,NO,NULL
+73774,Buy Calls,AAPL,AAPL Sep 17 2021 155 Call,,,1.45,2.57,155,0.5,,2021-08-30,,,ACTIVE,Closed,2021-09-01,TARGET REACHED,77,YES,,AAPL,770,AAPL with a big breakout and we add the 155's for sep 17 strike as well here,,NO,NULL
+74068,Buy Calls,AAPL,AAPL Sep 18 2020 126.25 Call,,,2.69,4.8,126.25,1,,2020-09-08,,,ACTIVE,Closed,2020-09-08,STOPPED OUT,-61,YES,,AAPL,-610,Turn it...,,NO,NULL
+74075,Buy Calls,AAPL,AAPL Sep 18 2020 137.5 Call,,,2.9,4.42,137.5,1.15,,2020-08-31,,,ACTIVE,Closed,2020-09-01,TARGET REACHED,53,YES,,AAPL,530,AAPL is showing so much strength and the upside calls continue to flash.  We join in with a move towards $140 short term in play,,NO,NULL
+73786,Buy Calls,AAPL,AAPL Sep 3 2021 152.5 Call (Weekly),,,1.4,2.33,152.5,0.51,,2021-08-16,,,ACTIVE,Closed,2021-08-16,TARGET REACHED,-71,YES,,AAPL,-710,Back in.,,NO,NULL
+73785,Buy Calls,AAPL,AAPL Sep 3 2021 155 Call (Weekly),,,1.75,3.5,155,0.45,,2021-08-17,,,ACTIVE,Closed,2021-08-17,STOPPED OUT,-64,YES,,AAPL,-640,Once more here as price activity continues to trigger.,,NO,NULL
+73970,Buy Stock,ACB,ACB Jan 29 2021 12 Call (Weekly),,,0.86,1.22,12,0.25,,2021-01-13,,,ACTIVE,Closed,2021-01-14,TARGET REACHED,42,YES,,ACB,420,This stock could get angry and very quickly.,,NO,NULL
+73838,Buy Calls,ADSK,ADSK Jul 16 2021 290 Call,,,4.1,5.6,290,1.5,,2021-06-21,,,ACTIVE,Closed,2021-06-24,TARGET REACHED,37,YES,,ADSK,370,ADSK is flagging and breakout to 300 is in play,,NO,NULL
+73778,Buy Calls,AFRM,AFRM Sep 17 2021 80 Call,,,2.9,17.9,80,0.95,,2021-08-25,,,ACTIVE,Closed,2021-08-30,TARGET REACHED,518,YES,,AFRM,5180,Monster movement here.,,NO,NULL
+73799,Buy Calls,AMD,AMD Aug 13 2021 130 Call (Weekly),,,2.09,3.55,130,0.55,,2021-08-04,,,ACTIVE,Closed,2021-08-04,TARGET REACHED,70,YES,,AMD,700,AMD trigger with price / volume momentum.,,NO,NULL
+74100,Buy Calls,AMD,AMD Aug 14 2020 87 Call (Weekly),,,1.65,2.9,87,0.5,,2020-08-04,,,ACTIVE,Closed,2020-08-04,TARGET REACHED,76,YES,,AMD,760,AMD will push $90 short term.,,NO,NULL
+74011,Buy Calls,AMD,AMD Dec 18 2020 92.5 Call,,,1.8,2.78,92.5,0.75,,2020-11-23,,,ACTIVE,Closed,2020-11-30,TARGET REACHED,55,YES,,AMD,550,Strong price activity along with strong upside call volume.,,NO,NULL
+73992,Buy Calls,AMD,AMD Dec 31 2020 102 Call (Weekly),,,2.49,4.4,102,0.73,,2020-12-15,,,ACTIVE,Closed,2020-12-18,STOPPED OUT,-63,YES,,AMD,-630,Breakout on AMD finally.,,NO,NULL
+73945,Buy Calls,AMD,AMD Feb 26 2021 98 Call (Weekly),,,1.95,3.9,98,0.65,,2021-02-10,,,ACTIVE,Closed,2021-02-16,STOPPED OUT,-66,YES,,AMD,-660,"Clearing that flag, AMD should charge towards $100 ",,NO,NULL
+74056,Buy Calls,AMD,AMD Oct 16 2020 82 Call,,,2.39,3.02,82,1,,2020-09-24,,,ACTIVE,Closed,2020-09-29,TARGET REACHED,26,YES,,AMD,260,"Price activity has been beyond strong.  Call activity and price volume, outstanding.  Trend line has a move back towards $85. ",,NO,NULL
+74076,Buy Calls,AMD,AMD Sep 18 2020 92.5 Call,,,2.53,4.2,92.5,0.85,,2020-08-31,,,ACTIVE,Closed,2020-08-31,TARGET REACHED,66,YES,,AMD,660,AMD is looking to go....,,NO,NULL
+74071,Buy Calls,AMD,AMD Sep 18 2020 97.5 Call,,,2.71,5.45,97.5,1.05,,2020-09-02,,,ACTIVE,Closed,2020-09-02,STOPPED OUT,-59,YES,,AMD,-590,Next opportunity.,,NO,NULL
+73791,Buy Calls,AMD,AMD Sep 3 2021 115 Call (Weekly),,,2.94,4.95,115,1.17,,2021-08-11,,,ACTIVE,Closed,2021-08-11,STOPPED OUT,-59,YES,,AMD,-590,Have to love the price activity here with AMD and how it's trading compared to the Nas today. Technicals look great for a monster move higher.,,NO,NULL
+73964,Buy Calls,APPS,APPS Feb 19 2021 70 Call,,,4.6,6.15,70,1.5,,2021-01-20,,,ACTIVE,Closed,2021-01-22,TARGET REACHED,34,YES,,APPS,340,Breakout level.,,NO,NULL
+73990,Buy Calls,APPS,APPS Jan 15 2021 60 Call,,,2.3,3.6,60,0.8,,2020-12-17,,,ACTIVE,Closed,2020-12-18,TARGET REACHED,57,YES,,APPS,570,APPS is a play over the next few weeks as we see a monster move continue towards $60 and higher. Back in with APPS,,NO,NULL
+73835,Buy Calls,APPS,APPS Jul 16 2021 80 Call,,,2.8,4.25,80,1.1,,2021-06-24,,,ACTIVE,Closed,2021-06-24,TARGET REACHED,52,YES,,APPS,520,It's about to explode higher,,NO,NULL
+74059,Buy Calls,APPS,APPS Oct 16 2020 35 Call,,,2.5,2.75,35,1.3,,2020-09-17,,,ACTIVE,Closed,2020-09-23,TARGET REACHED,10,YES,,APPS,100,It's time,,NO,NULL
+73843,Buy Calls,ARKK,ARKK Jul 16 2021 125 Call,,,1.7,2.85,125,0.5,,2021-06-14,,,ACTIVE,Closed,2021-06-23,TARGET REACHED,68,YES,,ARKK,680,ARKK with a monster technical developing.,,NO,NULL
+73872,Buy Puts,ARKK,ARKK Jun 4 2021 95 Put (Weekly),,,3.2,5.3,95,1.5,,2021-05-12,,,ACTIVE,Closed,2021-05-12,STOPPED OUT,-53,YES,,ARKK,-530,,,NO,NULL
+73812,Buy Calls,ASAN,ASAN Aug 20 2021 75 Call,,,3.4,4.45,75,1.2,,2021-07-22,,,ACTIVE,Closed,2021-07-26,TARGET REACHED,31,YES,,ASAN,310,Next level,,NO,NULL
+73807,Buy Calls,ASAN,ASAN Aug 20 2021 75 Call,,,2.5,3.2,75,0.75,,2021-07-28,,,ACTIVE,Closed,2021-08-03,TARGET REACHED,28,YES,,ASAN,280,ASAN great reentry point and ASAN is headed towards $80 short term.,,NO,NULL
+73839,Buy Calls,ASAN,ASAN Jul 16 2021 60 Call,,,1.95,3.9,60,0.7,,2021-06-18,,,ACTIVE,Closed,2021-06-21,TARGET REACHED,100,YES,,ASAN,1000,Monster and we want in for next week.,,NO,NULL
+73769,Buy Calls,ASAN,ASAN Sep 17 2021 100 Call,,,2.3,4.5,100,0.7,,2021-09-03,,,ACTIVE,OPEN,,,,NO,,ASAN,0,Next level breakout trigger,,NO,NULL
+73837,Buy Calls,AYX,AYX Jul 16 2021 95 Call,,,1.4,2.8,95,0.5,,2021-06-22,,,ACTIVE,Closed,2021-06-22,STOPPED OUT,-57,YES,,AYX,-570,Monster move developing here,,NO,NULL
+74093,Buy Calls,BA,BA Aug 21 2020 200 Call,,,4.45,7.95,200,1.5,,2020-08-11,,,ACTIVE,Closed,2020-08-11,STOPPED OUT,-55,YES,,BA,-550,Big move in BA brewing. Quick trade.,,NO,NULL
+73820,Buy Calls,BABA,BABA Jul 30 2021 217.5 Call (Weekly),,,3.15,3.55,217.5,1.2,,2021-07-13,,,ACTIVE,Closed,2021-07-14,TARGET REACHED,51,YES,,BABA,510,Monster opportunity here for a quick trade,,NO,NULL
+74036,Buy Calls,BABA,BABA Oct 30 2020 320 Call (Weekly),,,3.55,6.35,320,1.4,,2020-10-16,,,ACTIVE,Closed,2020-10-19,TARGET REACHED,79,YES,,BABA,790,Next opportunity,,NO,NULL
+74083,Buy Calls,BABA,BABA Sep 4 2020 280 Call (Weekly),,,3.85,6.95,280,1.3,,2020-08-21,,,ACTIVE,Closed,2020-08-24,TARGET REACHED,81,YES,,BABA,810,Strong setup for next week.,,NO,NULL
+74033,Buy Calls,BAC,BAC Nov 20 2020 26 Call,,,0.47,0.79,26,0.24,,2020-10-22,,,ACTIVE,Closed,2020-11-04,STOPPED OUT,-58,YES,,BAC,-580,BAC is ready for $26 plus short term again.,,NO,NULL
+73965,Buy Calls,BFT,BFT Feb 19 2021 20 Call,,,1.1,2.1,20,0.45,,2021-01-19,,,ACTIVE,Closed,2021-01-25,STOPPED OUT,-59,YES,,BFT,-590,BFT monster rally into 20's over the next few weeks.,,NO,NULL
+74034,Buy Calls,BIDU,BIDU Nov 20 2020 145 Call,,,2.75,3.45,145,1.05,,2020-10-21,,,ACTIVE,Closed,2020-11-02,TARGET REACHED,28,YES,,BIDU,280,BIDU is shaping up nicely for a monster move and upside calls have been strong beyond $150 plus.,,NO,NULL
+73857,Buy Calls,BMBL,BMBL Jun 18 2021 50 Call,,,1.85,3.25,50,0.75,,2021-05-28,,,ACTIVE,Closed,2021-05-28,STOPPED OUT,-55,YES,,BMBL,-550,Early trigger and add.  Beauty!,,NO,NULL
+73792,Buy Calls,CAT,CAT Aug 27 2021 225 Call (Weekly),,,2.45,3.5,225,0.92,,2021-08-11,,,ACTIVE,Closed,2021-08-11,TARGET REACHED,43,YES,,CAT,430,Explosive price action,,NO,NULL
+73806,Buy Calls,CHWY,CHWY Aug 20 2021 95 Call,,,2.2,4.4,95,0.5,,2021-07-28,,,ACTIVE,Closed,2021-07-28,STOPPED OUT,-67,YES,,CHWY,-670,Monster move in CHWY towards $95 short term,,NO,NULL
+74088,Buy Calls,CHWY,CHWY Aug 28 2020 57.5 Call (Weekly),,,1.76,1.85,57.5,0.6,,2020-08-13,,,ACTIVE,Closed,2020-08-19,TARGET REACHED,6,YES,,CHWY,60,Next set-up.,,NO,NULL
+74017,Buy Calls,CHWY,CHWY Dec 18 2020 70 Call,,,3.45,4.95,70,1.3,,2020-11-16,,,ACTIVE,Closed,2020-11-20,TARGET REACHED,61,YES,,CHWY,610,CHWY provides tremendous opportunity short term.,,NO,NULL
+73988,Buy Calls,CHWY,CHWY Dec 31 2020 110 Call (Weekly),,,2.95,3.3,110,1.1,,2020-12-21,,,ACTIVE,Closed,2020-12-22,TARGET REACHED,12,YES,,CHWY,120,Quick trade opportunity.,,NO,NULL
+73877,Buy Calls,CLF,CLF May 21 2021 22 Call,,,0.62,1.07,22,0.22,,2021-05-07,,,ACTIVE,Closed,2021-05-10,TARGET REACHED,73,YES,,CLF,730,CLF has triggered with a beauty of a pattern.,,NO,NULL
+73780,Buy Calls,CLF,CLF Sep 17 2021 25 Call,,,1.05,1.49,25,0.43,,2021-08-23,,,ACTIVE,Closed,2021-08-24,TARGET REACHED,42,YES,,CLF,420,Absolute beauty of a setup here.,,NO,NULL
+74023,Buy Calls,COP,COP Dec 18 2020 36 Call,,,1.44,2,36,0.7,,2020-11-10,,,ACTIVE,Closed,2020-11-11,TARGET REACHED,51,YES,,COP,510,,,NO,NULL
+73986,Buy Calls,CRM,CRM Jan 8 2021 240 Call (Weekly),,,3.7,6.6,240,1.4,,2020-12-22,,,ACTIVE,Closed,2020-12-22,STOPPED OUT,-58,YES,,CRM,-580,CRM getting ready here...,,NO,NULL
+74057,Buy Calls,CRM,CRM Oct 2 2020 255 Call (Weekly),,,3.7,6.7,255,1.3,,2020-09-22,,,ACTIVE,Closed,2020-09-22,STOPPED OUT,-60,YES,,CRM,-600,"Trading very well, coming out of it's wedge.... Quick trade.",,NO,NULL
+74005,Buy Calls,CRSR,CRSR Dec 18 2020 45 Call,,,3.9,6.2,45,1.25,,2020-11-30,,,ACTIVE,Closed,2020-11-30,STOPPED OUT,-66,YES,,CRSR,-660,"Quick trade, explosive trigger. ",,NO,NULL
+73802,Buy Calls,CRWD,CRWD Aug 20 2021 265 Call,,,5.3,7.9,265,2,,2021-08-02,,,ACTIVE,Closed,2021-08-03,TARGET REACHED,44,YES,,CRWD,440,CRWD has 52 week highs in sight this month.,,NO,NULL
+74019,Buy Calls,CRWD,CRWD Nov 20 2020 143 Call,,,2.4,4.8,143,0.9,,2020-11-12,,,ACTIVE,Closed,2020-11-13,STOPPED OUT,-63,YES,,CRWD,-630,Quick trade opportunity.,,NO,NULL
+74049,Buy Calls,CRWD,CRWD Oct 16 2020 150 Call,,,3.95,5.15,150,,,2020-10-01,,,ACTIVE,Closed,2020-10-05,TARGET REACHED,30,YES,,CRWD,300,Quick trade and opportunity.,,NO,NULL
+74084,Buy Calls,CRWD,CRWD Sep 4 2020 120 Call (Weekly),,,3.4,6.1,120,1.4,,2020-08-20,,,ACTIVE,Closed,2020-08-26,TARGET REACHED,80,YES,,CRWD,800,Beauty of a indicator and chart.,,NO,NULL
+73904,Buy Calls,CSCO,CSCO May 21 2021 55 Call,,,1.01,2.05,55,0.41,,2021-04-05,,,ACTIVE,Closed,2021-04-05,STOPPED OUT,-59,YES,,CSCO,-590,Monster look and move.  Look for CSCO to continue to march higher,,NO,NULL
+74025,Buy Calls,CSIQ,CSIQ Nov 20 2020 45 Call,,,1.65,2.95,45,0.3,,2020-11-06,,,ACTIVE,Closed,2020-11-16,STOPPED OUT,-67,YES,,CSIQ,-670,Next opportunity.,,NO,NULL
+73777,Buy Calls,CZR,CZR Sep 17 2021 100 Call,,,3.3,5.1,100,1.3,,2021-08-25,,,ACTIVE,Closed,2021-08-26,TARGET REACHED,55,YES,,CZR,550,CZR has triggered and $100 plus is in play short term.,,NO,NULL
+73922,Buy Calls,DBX,DBX Apr 16 2021 27 Call,,,1.01,2.05,27,0.46,,2021-03-10,,,ACTIVE,Closed,2021-03-12,TARGET REACHED,103,YES,,DBX,1030,Insane amount of calls being bought here.  From this friday through next week.  We won't be as aggressive but join in.  Same pattern as mrvl.,,NO,NULL
+73849,Buy Calls,DBX,DBX Jul 16 2021 31 Call,,,0.79,1.6,31,0.25,,2021-06-07,,,ACTIVE,Closed,2021-06-07,STOPPED OUT,-59,YES,,DBX,-590,Next level trigger here and DBX is headed towards $33 - $35 short term,,NO,NULL
+73866,Buy Calls,DBX,DBX Jun 18 2021 28 Call,,,0.73,0.85,28,0.17,,2021-05-19,,,ACTIVE,Closed,2021-05-26,TARGET REACHED,17,YES,,DBX,170,DBX upside calls flying....we join in here on a beautiful momentum trigger.,,NO,NULL
+73869,Buy Calls,DDD,DDD Jun 18 2021 26 Call,,,1.55,2.6,26,0.45,,2021-05-17,,,ACTIVE,Closed,2021-05-18,TARGET REACHED,68,YES,,DDD,680,DDD breaking out and wants above $25 short term,,NO,NULL
+74054,Buy Calls,DDOG,DDOG Oct 16 2020 100 Call,,,2.75,5.5,100,1.15,,2020-09-28,,,ACTIVE,Closed,2020-09-28,STOPPED OUT,12,YES,,DDOG,120,DDOG $100 plus short term.  Beauty breakout,,NO,NULL
+73788,Buy Calls,DDOG,DDOG Sep 3 2021 140 Call (Weekly),,,2.98,5.3,140,0.71,,2021-08-13,,,ACTIVE,Closed,2021-08-13,STOPPED OUT,-74,YES,,DDOG,-740,DDOG has so much more room to go higher.,,NO,NULL
+73927,Buy Calls,DKNG,DKNG Apr 1 2021 70 Call (Weekly),,,2.75,4.95,70,0.9,,2021-03-04,,,ACTIVE,Closed,2021-03-05,STOPPED OUT,-61,YES,,DKNG,-610,Great opportunity to add an outstanding company with a ton of great exposure of late.  We move out to April and add DKNG on the cheap.,,NO,NULL
+73909,Buy Calls,DKNG,DKNG Apr 16 2021 64 Call,,,2.19,2.6,64,0.84,,2021-03-29,,,ACTIVE,Closed,2021-04-05,TARGET REACHED,19,YES,,DKNG,190,DKNG is beyond oversold here.  Great entry point and should provide us a quick trade opportunity.,,NO,NULL
+73920,Buy Calls,DKNG,DKNG Mar 26 2021 75 Call (Weekly),,,2.3,3.95,75,0.6,,2021-03-12,,,ACTIVE,Closed,2021-03-12,STOPPED OUT,-73,YES,,DKNG,-730,DKNG triggered with a move towards $75 short term.,,NO,NULL
+74080,Buy Calls,DKNG,DKNG Sep 18 2020 40 Call,,,2.45,3.2,40,0.75,,2020-08-25,,,ACTIVE,Closed,2020-08-27,TARGET REACHED,30,YES,,DKNG,300,Quick trade,,NO,NULL
+73985,Buy Calls,DM,DM Jan 15 2021 25 Call,,,1.1,2.1,25,0.1,,2020-12-23,,,ACTIVE,Closed,2020-12-23,STOPPED OUT,-90,YES,,DM,-900,Beautiful trade for the next few weeks.  The price activity behind DM is outstanding.,,NO,NULL
+73776,Buy Calls,DOCN,DOCN Sep 17 2021 60 Call,,,2.55,4.2,60,0.95,,2021-08-26,,,ACTIVE,Closed,2021-08-30,TARGET REACHED,65,YES,,DOCN,650,Strong price action in DOCN today.  trigger to strong to wait on here.,,NO,NULL
+73794,Buy Calls,DOCU,DOCU Aug 20 2021 320 Call,,,4.55,8.6,320,1.5,,2021-08-10,,,ACTIVE,Closed,2021-08-10,STOPPED OUT,-57,YES,,DOCU,-570,Beauty of a bull flag breakout.  Quick trade,,NO,NULL
+74087,Buy Calls,DOCU,DOCU Aug 28 2020 220 Call (Weekly),,,3.7,7,220,1.3,,2020-08-17,,,ACTIVE,Closed,2020-08-17,STOPPED OUT,-63,YES,,DOCU,-630,DOCU has a monster setup brewing.  Trigger to new 52 weeks potentially.  We enter now.,,NO,NULL
+73787,Buy Calls,EBAY,EBAY Sep 17 2021 80 Call,,,1.11,2.25,80,0.31,,2021-08-16,,,ACTIVE,Closed,2021-08-16,STOPPED OUT,67,YES,,EBAY,670,Next opportunity.,,NO,NULL
+74007,Buy Calls,ETSY,ETSY Dec 18 2020 170 Call,,,3.75,4.55,170,1.5,,2020-11-27,,,ACTIVE,Closed,2020-12-08,TARGET REACHED,22,YES,,ETSY,220,ETSY has a beautiful breakout in play.  Monster developing.,,NO,NULL
+74014,Buy Calls,ETSY,ETSY Dec 4 2020 140 Call (Weekly),,,3.1,5.1,140,1.3,,2020-11-19,,,ACTIVE,Closed,2020-11-20,TARGET REACHED,65,YES,,ETSY,650,ETSY gets the call again and breaking out towards $140 plus short term.,,NO,NULL
+73815,Buy Calls,ETSY,ETSY Jul 30 2021 200 Call (Weekly),,,3.7,4.8,200,0.9,,2021-07-19,,,ACTIVE,Closed,2021-07-22,TARGET REACHED,30,YES,,ETSY,300,Quick trade,,NO,NULL
+73811,Buy Calls,ETSY,ETSY Jul 30 2021 212.5 Call (Weekly),,,2.7,4.35,212.5,1,,2021-07-23,,,ACTIVE,Closed,2021-07-23,TARGET REACHED,61,YES,,ETSY,610,ETSY with a path to explode towards $220 over the next week. Quick trade.,,NO,NULL
+74021,Buy Calls,ETSY,ETSY Nov 20 2020 130 Call,,,3.25,5,130,1.35,,2020-11-11,,,ACTIVE,Closed,2020-11-11,TARGET REACHED,54,YES,,ETSY,540,Quick trade opportunity.,,NO,NULL
+74041,Buy Calls,ETSY,ETSY Oct 23 2020 155 Call (Weekly),,,3.35,5.15,155,1.5,,2020-10-12,,,ACTIVE,Closed,2020-10-13,TARGET REACHED,54,YES,,ETSY,540,Quick trade\trigger.,,NO,NULL
+74073,Buy Calls,ETSY,ETSY Sep 18 2020 132 Call,,,3.85,7.7,132,0.9,,2020-09-01,,,ACTIVE,Closed,2020-09-01,STOPPED OUT,-67,YES,,ETSY,-670,ETSY with a monster move in play short term.,,NO,NULL
+74086,Buy Calls,FB,FB Aug 28 2020 275 Call (Weekly),,,2.85,5.55,275,0.85,,2020-08-18,,,ACTIVE,Closed,2020-08-24,TARGET REACHED,93,YES,,FB,930,What a chart and what a breakout brewing. Too strong to resist.,,NO,NULL
+73808,Buy Calls,FB,FB Aug 6 2021 380 Call (Weekly),,,5.35,8.9,380,1.85,,2021-07-27,,,ACTIVE,Closed,2021-07-28,TARGET REACHED,67,YES,,FB,670,This trade is a setup into FB earnings tomorrow after the close.  We fully expect to be out prior to release but love FB into earnings.  Todays move within tech is overdone,,NO,NULL
+73999,Buy Calls,FB,FB Dec 18 2020 295 Call,,,3.8,6.95,295,0.7,,2020-12-07,,,ACTIVE,Closed,2020-12-09,STOPPED OUT,-81,YES,,FB,-810,Quick trade opportunity.,,NO,NULL
+73828,Buy Calls,FB,FB Jul 16 2021 357.5 Call,,,3.45,5.6,357.5,1.25,,2021-07-01,,,ACTIVE,Closed,2021-07-06,TARGET REACHED,62,YES,,FB,620,FB has triggered and offers a beauty of a set-up for the next few weeks.,,NO,NULL
+73858,Buy Calls,FB,FB Jun 18 2021 345 Call,,,3.25,6.5,145,0.85,,2021-05-27,,,ACTIVE,Closed,2021-05-27,STOPPED OUT,-64,YES,,FB,-640,The chart / trigger on FB right now is absolute monster,,NO,NULL
+73921,Buy Calls,FB,FB Mar 26 2021 282.5 Call (Weekly),,,3.85,4.25,282.5,1.5,,2021-03-11,,,ACTIVE,Closed,2021-03-16,TARGET REACHED,11,YES,,FB,110,Monster move out of it's base.,,NO,NULL
+73874,Buy Calls,FB,FB May 28 2021 315 Call (Weekly),,,3.85,5.3,315,1.7,,2021-05-11,,,ACTIVE,Closed,2021-05-14,TARGET REACHED,38,YES,,FB,380,"FB has triggered with an oversold indicator.  Earnings were outstanding, forecast outstanding, FB offers so much potential at this level.  We move out to end of May for this trade. ",,NO,NULL
+73773,Buy Calls,FB,FB Sep 17 2021 390 Call,,,3.9,6.9,390,1.4,,2021-08-31,,,ACTIVE,Closed,2021-08-31,STOPPED OUT,-61,YES,,FB,-610,"Adding FB here, beauty of a technical. ",,NO,NULL
+74079,Buy Calls,FB,FB Sep 4 2020 300 Call (Weekly),,,4.4,7.9,300,1.8,,2020-08-26,,,ACTIVE,Closed,2020-08-26,TARGET REACHED,80,YES,,FB,800,Quick opportunity and trade.,,NO,NULL
+73932,Buy Calls,FCX,FCX Mar 19 2021 38 Call,,,0.91,1,38,0.4,,2021-03-01,,,ACTIVE,Closed,2021-03-11,TARGET REACHED,32,YES,,FCX,320,FCX has so much more room to go from last week's price activity.,,NO,NULL
+73915,Buy Cals,FINV,FINV Apr 16 2021 10 Call,,,0.55,1.1,10,0.15,,2021-03-22,,,ACTIVE,Closed,2021-03-22,STOPPED OUT,,YES,,FINV,0,Quick trade opportunity.,,NO,NULL
+73987,Buy Calls,FSLR,FSLR Jan 15 2021 110 Call,,,3.45,4.95,110,1.3,,2020-12-22,,,ACTIVE,Closed,2020-12-28,TARGET REACHED,44,YES,,FSLR,440,"Monster opportunity here, we move out to Jan strike. ",,NO,NULL
+73989,Buy Calls,FSLY,FSLY Dec 31 2020 110 Call (Weekly),,,3.8,7.4,110,0.9,,2020-12-18,,,ACTIVE,Closed,2020-12-18,STOPPED OUT,-67,YES,,FSLY,-670,FSLY is itching to explode and CRWD is leading the way.  Look for FSLY to follow now.  Monster move in play.,,NO,NULL
+74047,Buy Calls,FSLY,FSLY Oct 16 2020 105 Call,,,3.5,4.55,105,1.3,,2020-10-05,,,ACTIVE,Closed,2020-10-06,TARGET REACHED,30,YES,,FSLY,300,Quick trade.,,NO,NULL
+73796,Buy Calls,FSLY,FSLY Sep 17 2021 45 Call,,,2.25,2.73,45,0.85,,2021-08-09,,,ACTIVE,Closed,2021-08-10,TARGET REACHED,58,YES,,FSLY,580,Strong price activity and trigger here.  We do move out to Sep however for this trade.,,NO,NULL
+74018,Buy Calls,FSR,FSR Dec 18 2020 20 Call,,,1.84,2.08,20,0.51,,2020-11-13,,,ACTIVE,Closed,2020-11-25,TARGET REACHED,13,YES,,FSR,130,We move all the ay out to Dec 18 strike for this one but FSR offers so much opportunity.,,NO,NULL
+73998,Buy Calls,FTCH,FTCH Jan 15 2021 65 Call,,,2.61,3.45,65,1,,2020-12-08,,,ACTIVE,Closed,2020-12-18,TARGET REACHED,32,YES,,FTCH,320,FTCH has another 15% in it before resting.,,NO,NULL
+73798,Buy Calls,FUBO,FUBO Aug 20 2021 28.5 Call,,,1.6,2.2,28.5,0.5,,2021-08-05,,,ACTIVE,Closed,2021-08-09,TARGET REACHED,38,YES,,FUBO,380,Beauty of a trigger and technical setup here.,,NO,NULL
+73975,Buy Calls,FUBO,FUBO Jan 29 2021 37 Call (Weekly),,,2.24,4.5,37,0.5,,2021-01-07,,,ACTIVE,Closed,2021-01-12,TARGET REACHED,102,YES,,FUBO,1020,The short squeeze for days will be on for FUBO,,NO,NULL
+73969,Buy Calls,FUBO,FUBO Jan 29 2021 45 Call (Weekly),,,3.4,1.32,45,1.4,,2021-01-13,,,ACTIVE,Closed,2021-01-13,STOPPED OUT,-61,YES,,FUBO,-610,"FUBO is triggering again.  60% short float, price activity has this exploding short term again.  $50 is not out of the question very soon. ",,NO,NULL
+73829,Buy Calls,FUBO,FUBO Jul 16 2021 35 Call,,,1.39,2.5,35,0.5,,2021-06-30,,,ACTIVE,Closed,2021-07-02,STOPPED OUT,-55,YES,,FUBO,-550,FUBO is ready to launch,,NO,NULL
+73851,Buy Calls,FUBO,FUBO Jun 18 2021 32 Call,,,1.72,2.25,32,0.6,,2021-06-04,,,ACTIVE,Closed,2021-06-07,TARGET REACHED,31,YES,,FUBO,310,FUBO about to get loose into next week.,,NO,NULL
+73890,Buy Calls,FUBO,FUBO May 21 2021 22.5 Call,,,2.05,2.7,22.5,0.75,,2021-04-22,,,ACTIVE,Closed,2021-04-27,TARGET REACHED,32,YES,,FUBO,320,Monster move brewing here....,,NO,NULL
+73781,Buy Calls,FUBO,FUBO Sep 17 2021 28 Call,,,1.35,2,28,0.5,,2021-08-23,,,ACTIVE,Closed,2021-08-25,TARGET REACHED,48,YES,,FUBO,480,Looking explosive.,,NO,NULL
+73860,Buy Calls,FUTU,FUTU Jun 18 2021 155 Call,,,5,7,155,2.2,,2021-05-26,,,ACTIVE,Closed,2021-06-01,TARGET REACHED,40,YES,,FUTU,400,"The chart; amazing,  This has another 15% written all over it and with ease.  Just need the follow through but looks great and we've been watching this all session. ",,NO,NULL
+74099,Buy Calls,GDX,GDX Aug 21 2020 47.5 Call,,,1.05,2.1,47.5,0.41,,2020-08-05,,,ACTIVE,Closed,2020-08-05,STOPPED OUT,-64,YES,,GDX,-640,Next up....,,NO,NULL
+73789,Buy Calls,GILD,GILD Sep 17 2021 72.5 Call,,,0.97,1.45,72.5,0.25,,2021-08-12,,,ACTIVE,Closed,2021-08-17,TARGET REACHED,49,YES,,GILD,490,"Price activity, value, breakout technical just so strong with GILD right now. ",,NO,NULL
+73916,Buy Calls,GM,GM Apr 1 2021 65 Call (Weekly),,,1.34,2.7,65,0.3,,2021-03-18,,,ACTIVE,Closed,2021-03-18,STOPPED OUT,-73,YES,,GM,-730,Quick trade breakout.,,NO,NULL
+73963,Buy Calls,GM,GM Feb 19 2021 60 Call,,,2.1,3.6,60,0.25,,2021-01-21,,,ACTIVE,Closed,2021-02-10,STOPPED OUT,-57,YES,,GM,-570,GM has triggered and we have a move in the 60's short term.,,NO,NULL
+73971,Buy Calls,GM,GM Jan 29 2021 50 Call (Weekly),,,1.15,2.55,50,0.45,,2021-01-12,,,ACTIVE,Closed,2021-01-13,TARGET REACHED,122,YES,,GM,1220,Beautiful short term opportunity.,,NO,NULL
+73918,Buy Calls,GNOG,GNOG Apr 16 2021 22.5 Call,,,1.35,2.4,22.5,,,2021-03-16,,,ACTIVE,Closed,2021-03-16,STOPPED OUT,-100,YES,,GNOG,-1000,Beautiful breakout point.,,NO,NULL
+74051,Buy Calls,GOGO,GOGO Oct 16 2020 11 Call,,,0.6,1.1,11,0.15,,2020-09-29,,,ACTIVE,Closed,2020-09-29,STOPPED OUT,-73,YES,,GOGO,-730,Monster move in GOGO developing.  Quick trade.,,NO,NULL
+74060,Buy Calls,GRWG,GRWG Oct 16 2020 20 Call,,,0.75,1.5,20,0.15,,2020-09-16,,,ACTIVE,Closed,2020-09-16,STOPPED OUT,-77,YES,,GRWG,-770,Big technical setup and $20 is in play short term.,,NO,NULL
+74098,Buy Calls,GS,GS Aug 14 2020 210 Call (Weekly),,,2.1,3,210,0.75,,2020-08-06,,,ACTIVE,Closed,2020-08-10,TARGET REACHED,43,YES,,GS,430,Breakout....,,NO,NULL
+74092,Buy Calls,GS,GS Aug 21 2020 222.5 Call,,,2.05,4.1,222.5,0.75,,2020-08-11,,,ACTIVE,Closed,2020-08-11,STOPPED OUT,-61,YES,,GS,-610,Quick trade,,NO,NULL
+73833,Buy Calls,IWM,IWM Jul 16 2021 237 Call,,,1.85,3.7,137,0.35,,2021-06-25,,,ACTIVE,Closed,2021-06-25,STOPPED OUT,-66,YES,,IWM,-660,An absolute monster rip setting up in IWM,,NO,NULL
+73862,Buy Calls,IWM,IWM Jun 18 2021 227 Call,,,2.49,3.47,227,0.94,,2021-05-25,,,ACTIVE,Closed,2021-05-27,TARGET REACHED,39,YES,,IWM,390,IWM brewing for a breakout here.,,NO,NULL
+73891,Buy Calls,IWM,IWM May 21 2021 227 Call,,,3.37,4.74,227,1.3,,2021-04-21,,,ACTIVE,Closed,2021-04-22,TARGET REACHED,41,YES,,IWM,410,So much room to rally higher with IWM,,NO,NULL
+73880,Buy Calls,IWM,IWM May 21 2021 228 Call,,,2.6,4.55,228,0.9,,2021-05-04,,,ACTIVE,Closed,2021-05-04,STOPPED OUT,-59,YES,,IWM,-590,Great value here.,,NO,NULL
+73888,Buy Calls,IWM,IWM May 21 2021 230 Call,,,2.98,4.1,230,1,,2021-04-23,,,ACTIVE,Closed,2021-04-26,TARGET REACHED,38,YES,,IWM,380,IWM going for next level breakout and believe this is a beauty of a setup for next week.,,NO,NULL
+74029,Buy Calls,IWM,IWM Nov 20 2020 160 Call,,,3.01,4.72,160,1.35,,2020-11-02,,,ACTIVE,Closed,2020-11-03,TARGET REACHED,57,YES,,IWM,570,IWM has been showing strong call activity.  We join in here.,,NO,NULL
+73775,Buy Calls,IWM,IWM Sep 17 2021 230 Call,,,2.04,2.49,230,0.7,,2021-08-27,,,ACTIVE,Closed,2021-09-02,TARGET REACHED,22,YES,,IWM,220,IWM clearing resistance here.,,NO,NULL
+73903,Buy Calls,JBLU,JBLU May 21 2021 23 Call,,,1.05,2.1,23,0.45,,2021-04-06,,,ACTIVE,Closed,2021-04-06,STOPPED OUT,-60,YES,,JBLU,-600,JBLU getting explosive.,,NO,NULL
+73817,Buy Calls,JD,JD Aug 20 2021 80 Call,,,2.17,3.95,80,0.4,,2021-07-15,,,ACTIVE,Closed,2021-07-15,STOPPED OUT,-73,YES,,JD,-730,JD triggering with a move into the 80's over the next few weeks.,,NO,NULL
+73951,Buy Calls,JD,JD Feb 19 2021 100 Call,,,2.3,2.45,100,0.9,,2021-02-02,,,ACTIVE,Closed,2021-02-10,TARGET REACHED,7,YES,,JD,70,JD on the move to $100 short term.,,NO,NULL
+74050,Buy Calls,JD,JD Oct 16 2020 82 Call,,,1.53,1.98,82,0.38,,2020-09-30,,,ACTIVE,Closed,2020-10-12,TARGET REACHED,29,YES,,JD,290,It's time for JD.  Beautiful price activity.,,NO,NULL
+73911,Buy Calls,JETS,JETS Apr 16 2021 27 Call,,,0.65,0.82,27,0.21,,2021-03-25,,,ACTIVE,Closed,2021-03-30,TARGET REACHED,26,YES,,,260,JETS has triggered and we have an opportunity with JETS for a major bounce here.,,NO,NULL
+74010,Buy Calls,JKS,JKS Dec 18 2020 75 Call,,,4.5,7.8,75,1.5,,2020-11-24,,,ACTIVE,Closed,2020-11-27,TARGET REACHED,73,YES,,JKS,730,Great entry point.,,NO,NULL
+73852,Buy Calls,JMIA,JMIA Jun 18 2021 35 Call,,,1.63,3.3,35,0.5,,2021-06-03,,,ACTIVE,Closed,2021-06-03,STOPPED OUT,-58,YES,,JMIA,-580,Beauty of a trigger,,NO,NULL
+74094,Buy Calls,JPM,JPM Aug 21 2020 105 Call,,,1.37,2.13,105,0.5,,2020-08-10,,,ACTIVE,Closed,2020-08-11,TARGET REACHED,-100,YES,,JPM,-1000,JPM has room towards $105 short term.,,NO,NULL
+74078,Buy Calls,JPM,JPM Sep 11 2020 105 Call (Weekly),,,1.58,2.6,105,0.63,,2020-08-27,,,ACTIVE,Closed,2020-08-27,STOPPED OUT,-56,YES,,JPM,-560,Next up...,,NO,NULL
+73772,Buy Calls,KWEB,KWEB Oct 1 2021 55 Call (Weekly),,,1.95,3.45,55,0.6,,2021-09-01,,,ACTIVE,OPEN,,,,NO,NULL,KWEB,NULL,We move out to Oct 1 for this trade but KWEB flagging with a monster breakout.,,NO,NULL
+73871,Buy Puts,LMND,LMND Jun 4 2021 55 Put (Weekly),,,2.55,3.95,55,0.5,,2021-05-13,,,ACTIVE,Closed,2021-05-17,STOPPED OUT,-68,YES,,LMND,-680,LMND short term completely Broken,,NO,NULL
+73889,Buy Calls,LULU,LULU May 7 2021 350 Call (Weekly),,,3.2,3.7,350,1.2,,2021-04-22,,,ACTIVE,Closed,2021-04-29,TARGET REACHED,16,YES,,LULU,160,"LULU quick trade, big breakout ",,NO,NULL
+74001,Buy Calls,LVS,LVS Dec 18 2020 62 Call,,,1.03,2.1,62,0.38,,2020-12-03,,,ACTIVE,Closed,2020-12-08,STOPPED OUT,-64,YES,,LVS,-640,Breakout,,NO,NULL
+73981,Buy Calls,LYFT,LYFT Jan 15 2021 52.5 Call,,,1.51,2.75,52.5,0.53,,2020-12-30,,,ACTIVE,Closed,2021-12-30,STOPPED OUT,-63,YES,,LYFT,-630,LYFT about to explode higher over the next week.,,NO,NULL
+74096,Buy Calls,MGM,MGM Aug 21 2020 19.5 Call,,,0.85,2.75,19.5,0.27,,2020-08-07,,,ACTIVE,Closed,2020-08-10,TARGET REACHED,226,YES,,MGM,2260,Quick move and trade.  setup for early next week.,,NO,NULL
+73870,Buy Calls,MGM,MGM Jun 18 2021 41 Call,,,1.12,1.92,41,0.51,,2021-05-14,,,ACTIVE,Closed,2021-05-18,TARGET REACHED,72,YES,,MGM,720,MGM has another 8 to 10% upside regardless of market activity over the next few weeks.,,NO,NULL
+74066,Buy Calls,MLCO,MLCO Oct 16 2020 21 Call,,,0.85,1.7,21,,,2020-09-10,,,ACTIVE,Closed,2020-09-10,STOPPED OUT,-100,YES,,MLCO,-1000,Monster bull flow and we jump in for a quick trade.  Move out to Oct strike,,NO,NULL
+73931,Buy Calls,MOS,MOS Mar 19 2021 32 Call,,,1.05,1.38,32,0.48,,2021-03-01,,,ACTIVE,Closed,2021-03-03,TARGET REACHED,10,YES,,MOS,100,"Extremely bullish activity taking place within MOS, especially options now being bought into the 40's short term. ",,NO,NULL
+73923,Buy Calls,MRVL,MRVL Apr 16 2021 46 Call,,,1.54,2.58,46,0.5,,2021-03-09,,,ACTIVE,Closed,2021-03-09,TARGET REACHED,68,YES,,MRVL,680,"MRVL is exploding and the upside call volume, especially the 50's, on fire.  We want in. ",,NO,NULL
+73818,Buy Calls,MRVL,MRVL Aug 20 2021 60 Call,,,1.27,2.55,60,0.51,,2021-07-14,,,ACTIVE,Closed,2021-07-14,STOPPED OUT,-57,YES,,MRVL,-570,MRVL is undervalued and has triggered with a price movement into the 60's over the next few weeks.,,NO,NULL
+74064,Buy Calls,MRVL,MRVL Oct 16 2020 42 Call,,,1.07,1.15,42,0.51,,2020-09-14,,,ACTIVE,Closed,2020-10-06,TARGET REACHED,25,YES,,MRVL,250,Outstanding price activity taking place in MRVL and now we see upside movement and into the mid-40's range over the next few weeks.  We enter now.,,NO,NULL
+73803,Buy Calls,MS,MS Aug 20 2021 100 Call,,,1.27,1.82,100,0.25,,2021-08-02,,,ACTIVE,Closed,2021-08-06,TARGET REACHED,49,YES,,MS,490,MS wants $100 plus,,NO,NULL
+73814,Buy Calls,MS,MS Aug 20 2021 95 Call,,,1.64,2.75,95,0.61,,2021-07-20,,,ACTIVE,Closed,2021-07-21,TARGET REACHED,68,YES,,MS,680,Outstanding price activity and strong technicals / chart,,NO,NULL
+73967,Buy Calls,MS,MS Feb 5 2021 80 Call (Weekly),,,1.44,2.4,80,0.35,,2021-01-14,,,ACTIVE,Closed,2021-01-14,STOPPED OUT,-75,YES,,MS,-750,Next short term opportunity.,,NO,NULL
+73913,Buy Calls,MSFT,MSFT Apr 16 2021 245 Call,,,2.95,3.25,245,0.7,,2021-03-23,,,ACTIVE,Closed,2021-04-05,TARGET REACHED,10,YES,,MSFT,100,Quick trade opportunity,,NO,NULL
+73901,Buy Calls,MSFT,MSFT Apr 30 2021 260 Call (Weekly),,,3.8,4.75,260,1.3,,2021-04-08,,,ACTIVE,Closed,2021-04-12,TARGET REACHED,50,YES,,MSFT,500,On the move into the 260's,,NO,NULL
+73827,Buy Calls,MSFT,MSFT Jul 16 2021 280 Call,,,1.7,2.08,280,0.6,,2012-07-02,,,ACTIVE,Closed,2021-07-06,TARGET REACHED,22,YES,,MSFT,220,MSFT has triggered and we cannot wait for this trade and have decided to move forward now.,,NO,NULL
+73819,Buy Calls,MSFT,MSFT Jul 30 2021 290 Call (Weekly),,,2.65,4,290,0.7,,2021-07-13,,,ACTIVE,Closed,2021-07-23,TARGET REACHED,13,YES,,MSFT,130,Breakaway trigger,,NO,NULL
+73864,Buy Calls,MSFT,MSFT Jun 18 2021 255 Call,,,2.81,3.25,255,1,,2021-05-24,,,ACTIVE,Closed,2021-05-26,TARGET REACHED,68,YES,,MSFT,680,MSFT working out of it's base here.,,NO,NULL
+74024,Buy Calls,MSFT,MSFT Nov 20 2020 232.5 Call,,,1.95,3.65,132.5,,,2020-11-09,,,ACTIVE,Closed,2020-11-09,STOPPED OUT,-100,YES,,MSFT,-1000,MSFT is headed to $235,,NO,NULL
+73782,Buy Calls,MSFT,MSFT Sep 17 2021 310 Call,,,3.05,5.95,310,1.1,,2021-08-20,,,ACTIVE,Closed,2021-08-20,STOPPED OUT,-59,YES,,MSFT,-590,MSFT needs to be in our portfolio for the next few weeks.,,NO,NULL
+74069,Buy Calls,MSFT,MSFT Sep 18 2020 225 Call,,,3.25,5.95,225,0.8,,2020-09-04,,,ACTIVE,Closed,2020-09-04,STOPPED OUT,-64,YES,,MSFT,-640,Setup nicely for early next week.,,NO,NULL
+73875,Buy Calls,MT,MT May 21 2021 35 Call,,,0.64,1.05,35,0.2,,2021-05-10,,,ACTIVE,Closed,2021-05-13,STOPPED OUT,-73,YES,,MT,-730,"Great price activity, strong upside call volume.  Great momentum.  Quick trade!",,NO,NULL
+74095,Buy Calls,MU,MU Aug 21 2020 51 Call,,,0.7,1.4,51,,,2020-08-10,,,ACTIVE,Closed,2020-08-10,STOPPED OUT,55,YES,,MU,550,MU price activity is on fire!,,NO,NULL
+74016,Buy Calls,MU,MU Dec 18 2020 65 Call,,,1.3,2.09,65,0.5,,2020-11-16,,,ACTIVE,Closed,2020-11-23,TARGET REACHED,44,YES,,MU,440,MU has triggered and we have a strong move towards $65 in play short term.,,NO,NULL
+74000,Buy Calls,MU,MU Dec 18 2020 76 Call,,,1.34,1.94,0.76,0.55,,2020-12-04,,,ACTIVE,Closed,2020-12-04,TARGET REACHED,45,YES,,MU,450,MU breakout towards $78,,NO,NULL
+73953,Buy Calls,MU,MU Feb 19 2021 85 Call,,,1.72,3.45,85,0.75,,2021-02-01,,,ACTIVE,Closed,2021-02-04,STOPPED OUT,-56,YES,,MU,-560,MU looking for that base breakout here.  Call volume is hot this morning.,,NO,NULL
+73939,Buy Calls,MU,MU Mar 5 2021 95 Call (Weekly),,,1.69,3,95,0.6,,2021-02-19,,,ACTIVE,Closed,2021-02-22,STOPPED OUT,-60,YES,,MU,-600,MU call volume is hot for next week expiration but we move out two weeks.,,NO,NULL
+73813,Buy Calls,NCLH,NCLH Aug 20 2021 27 Call,,,0.98,1.44,27,0.43,,2021-07-21,,,ACTIVE,Closed,2021-07-21,TARGET REACHED,47,YES,,NCLH,470,Next opportunity here with NCLH gearing up with a move back towards 28 - 30 range,,NO,NULL
+73797,Buy Calls,NCLH,NCLH Aug 27 2021 26 Call (Weekly),,,0.75,1.12,26,0.17,,2021-08-06,,,ACTIVE,Closed,2021-08-10,TARGET REACHED,50,YES,,NCLH,500,NCLH moving out to end of the month for this trade.  Great setup,,NO,NULL
+73855,Buy Calls,NCLH,NCLH Jun 18 2021 34 Call,,,0.93,1.65,34,0.3,,2021-06-01,,,ACTIVE,Closed,2021-06-01,STOPPED OUT,-66,YES,,NCLH,-660,NCLH is breaking out of range.,,NO,NULL
+73928,Buy Calls,NCLH,NCLH Mar 19 2021 36 Call,,,1.45,2.9,36,,,2021-03-03,,,ACTIVE,Closed,2021-03-03,STOPPED OUT,-100,YES,,NCLH,-1000,NCLH breakout towards $38 over the next week,,NO,NULL
+73779,Buy Calls,NCLH,NCLH Sep 17 2021 27 Call,,,0.88,1.9,27,0.2,,2021-08-24,,,ACTIVE,Closed,2021-08-24,STOPPED OUT,-67,YES,,NCLH,-670,NCLH exploding and could be on it's way back towards $30 short term,,NO,NULL
+73995,Buy Calls,NET,NET Dec 18 2020 85 Call,,,2.2,3.3,85,0.7,,2020-12-10,,,ACTIVE,Closed,2020-12-10,TARGET REACHED,50,YES,,NET,500,Quick breakout trade.,,NO,NULL
+73980,Buy Calls,NET,NET Jan 15 2021 80 Call,,,1.94,3.95,80,0.61,,2021-01-04,,,ACTIVE,Closed,2021-01-06,STOPPED OUT,-68,YES,,NET,-680,First opportunity and we have NET which has fallen close to 10% over the last 6 sessions.  It's time for growth stock to come back into play.,,NO,NULL
+73886,Buy Calls,NET,NET May 21 2021 95 Call,,,2.68,4.3,95,0.5,,2021-04-27,,,ACTIVE,Closed,2021-04-27,STOPPED OUT,-68,YES,,NET,-680,Monster!  NET is headed towards $100 over the next few weeks.  Call volume is indicating a sharp move higher as well.,,NO,NULL
+74038,Buy Calls,NET,NET Nov 20 2020 70 Call,,,3.1,3.6,70,,,2020-10-14,,,ACTIVE,Closed,2020-11-06,TARGET REACHED,16,YES,,NET,160,We move out to Nov monthly strike and we have one of the strongest price\call volume stock in play right now.  Look for NET to rally towards $70 over the next few weeks.,,NO,NULL
+74002,Buy Calls,NIO,NIO Dec 11 2020 47 Call (Weekly),,,2.5,4.5,47,0.8,,2020-12-02,,,ACTIVE,Closed,2020-12-09,STOPPED OUT,-68,YES,,NIO,-680,Quick trade.,,NO,NULL
+73991,Buy Calls,NIO,NIO Dec 31 2020 50 Call (Weekly),,,2.05,3.75,50,0.5,,2020-12-16,,,ACTIVE,Closed,2020-12-16,STOPPED OUT,-62,YES,,NIO,-620,Breaking out here and $50 back in play short term.,,NO,NULL
+74012,Buy Calls,NIO,NIO Dec 4 2020 56 Call (Weekly),,,2.3,3.9,55,0.9,,2020-11-23,,,ACTIVE,Closed,2020-11-23,TARGET REACHED,70,YES,,NIO,700,Quick trade,,NO,NULL
+74009,Buy Calls,NIO,NIO Dec 4 2020 60 Call (Weekly),,,2.64,4.85,60,0.52,,2020-11-24,,,ACTIVE,Closed,2020-11-24,STOPPED OUT,-79,YES,,NIO,-790,Quick trade.,,NO,NULL
+73954,Buy Calls,NIO,NIO Feb 12 2021 65 Call (Weekly),,,3.15,5.3,65,1.2,,2021-01-28,,,ACTIVE,Closed,2021-02-01,STOPPED OUT,-67,YES,,NIO,-670,Massive turn in NIO,,NO,NULL
+73947,Buy Calls,NIO,NIO Feb 26 2021 65 Call (Weekly),,,2.1,3.5,NIO,0.75,,2021-02-08,,,ACTIVE,Closed,2021-02-09,TARGET REACHED,67,YES,,NIO,670,NIO showing absolute strength and perfect chart set up.  Should get explosive here.,,NO,NULL
+73974,Buy Calls,NIO,NIO Jan 22 2021 65 Call (Weekly),,,2.13,4.95,65,0.8,,2021-01-08,,,ACTIVE,Closed,2021-01-11,TARGET REACHED,133,YES,,NIO,1330,NIO will be hot next week and we see another 10% from current price.,,NO,NULL
+73966,Buy Calls,NIO,NIO Jan 29 2021 63 Call (Weekly),,,2.35,4.4,63,0.85,,2021-01-15,,,ACTIVE,Closed,2021-01-21,STOPPED OUT,-64,YES,,NIO,-640,Strong opportunity for a rip back higher.,,NO,NULL
+73842,Buy Calls,NIO,NIO Jul 16 2021 50 Call,,,2.07,2.67,50,0.5,,2021-06-14,,,ACTIVE,Closed,2021-06-29,TARGET REACHED,29,YES,,NIO,290,Coming back with NIO again as triggers are igniting with a short term move towards $55,,NO,NULL
+73863,Buy Calls,NIO,NIO Jun 18 2021 37.5 Call,,,1.25,2.1,37.5,0.45,,2021-05-24,,,ACTIVE,Closed,2021-05-25,TARGET REACHED,16,YES,,NIO,160,Next opportunity,,NO,NULL
+73859,Buy Calls,NIO,NIO Jun 18 2021 40 Call,,,1.16,1.91,40,0.48,,2021-05-27,,,ACTIVE,Closed,2021-05-28,TARGET REACHED,65,YES,,NIO,650,NIO with so much strength.,,NO,NULL
+73882,Buy Calls,NIO,NIO May 21 2021 42.5 Call,,,1.62,2.85,42.5,0.51,,2021-04-30,,,ACTIVE,Closed,2021-04-30,STOPPED OUT,-59,YES,,NIO,-590,Turn it...,,NO,NULL
+74052,Buy Calls,NIO,NIO Oct 16 2020 22 Call,,,1.05,1.63,22,0.45,,2020-09-29,,,ACTIVE,Closed,2020-09-29,TARGET REACHED,55,YES,,NIO,550,Quick trade and breakout,,NO,NULL
+73770,Buy Calls,NIO,NIO Sep 17 2021 42 Call,,,1.07,1.8,42,0.47,,2021-09-02,,,ACTIVE,OPEN,,,,NO,NULL,NIO,0,NIO has triggered with a short term opportunity.  Should see $43 - $45 within a weeks time if not sooner.,,NO,NULL
+74044,Buy Calls,NVTA,NVTA Oct 16 2020 55 Call,,,1.1,1.62,55,0.5,,2020-10-07,,,ACTIVE,Closed,2020-10-08,TARGET REACHED,47,YES,,NVTA,470,Quick trade,,NO,NULL
+73933,Buy Calls,ORCL,ORCL Mar 19 2021 68 Call,,,1.37,1.55,68,0.52,,2021-02-25,,,ACTIVE,Closed,2021-03-03,TARGET REACHED,13,YES,,ORCL,130,Breakout,,NO,NULL
+73892,Buy Calls,ORCL,ORCL May 21 2021 82 Call,,,1.14,2.28,82,0.25,,2021-04-19,,,ACTIVE,Closed,2021-04-19,STOPPED OUT,-67,YES,,ORCL,-670,ORCL has triggered with a move into the mid 80's,,NO,NULL
+73938,Buy Calls,PAGS,PAGS Mar 19 2021 65 Call,,,3,5,65,0.5,,2021-02-22,,,ACTIVE,Closed,2021-03-03,STOPPED OUT,-83,YES,,PAGS,-830,PAGS with a breakout and outstanding amount of upside call volume.,,NO,NULL
+73982,Buy Calls,PENN,PENN Jan 8 2021 95 Call (Weekly),,,1.89,3.8,95,0.5,,2020-12-29,,,ACTIVE,Closed,2021-01-04,STOPPED OUT,-72,YES,,PENN,-720,Quick trade opportunity.,,NO,NULL
+74027,Buy Calls,PENN,PENN Nov 20 2020 65 Call,,,2.25,3.65,65,0.93,,2020-11-04,,,ACTIVE,Closed,2020-11-05,TARGET REACHED,63,YES,,PENN,630,PENN is ready for a move towards $70 short term.,,NO,NULL
+74063,Buy Calls,PENN,PENN Oct 2 2020 70 Call (Weekly),,,2.55,3.2,70,0.9,,2020-09-14,,,ACTIVE,Closed,2020-09-15,TARGET REACHED,8,YES,,PENN,80,Monster move and quick trade.,,NO,NULL
+74055,Buy Calls,PENN,PENN Oct 2 2020 73 Call (Weekly),,,1.44,2.2,73,0.5,,2020-09-25,,,ACTIVE,Closed,2020-09-25,TARGET REACHED,53,YES,,PENN,530,"Outstanding price action, quick trade.",,NO,NULL
+74070,Buy Calls,PENN,PENN Sep 18 2020 58 Call,,,2.58,3.2,58,0.9,,2020-09-03,,,ACTIVE,Closed,2020-09-08,TARGET REACHED,24,YES,,PENN,240,PENN has triggered and we see a quick move back towards $60,,NO,NULL
+73800,Buy Calls,PFE,PFE Aug 20 2021 46 Call,,,0.54,0.83,46,0.15,,2021-08-03,,,ACTIVE,Closed,2021-08-04,TARGET REACHED,-58,YES,,PFE,-580,Clean breakout with strong upside momentum,,NO,NULL
+73784,Buy Calls,PFE,PFE Sep 17 2021 55 Call,,,1.08,1.8,55,0.2,,2021-08-18,,,ACTIVE,Closed,2021-08-18,STOPPED OUT,-73,YES,,PFE,-730,PFE with a strong trigger.,,NO,NULL
+73997,Buy Calls,PINS,PINS Dec 31 2020 75 Call (Weekly),,,2.85,5.35,75,0.85,,2020-12-09,,,ACTIVE,Closed,2020-12-09,STOPPED OUT,13,YES,,PINS,130,Breakout,,NO,NULL
+73926,Buy Stock,PINS,PINS Mar 19 2021 73 Call,,,1.93,2.1,73,0.5,,2021-03-05,,,ACTIVE,Closed,2021-03-11,TARGET REACHED,9,YES,,PINS,90,It's time to prepare for next week.,,NO,NULL
+74030,Buy Calls,PINS,PINS Nov 20 2020 65 Call,,,2.9,4.9,65,0.7,,2020-10-30,,,ACTIVE,Closed,2020-10-30,STOPPED OUT,-75,YES,,PINS,-750,Opportunity on this pullback has now triggered with PINS.,,NO,NULL
+74062,Buy Calls,PINS,PINS Oct 2 2020 40 Call (Weekly),,,1.22,1.65,40,,,2020-09-15,,,ACTIVE,Closed,2020-09-22,TARGET REACHED,35,YES,,PINS,350,$40 plus and quickly.,,NO,NULL
+74042,Buy Calls,PINS,PINS Oct 23 2020 47 Call (Weekly),,,1.05,2.1,46,0.25,,2020-10-09,,,ACTIVE,Closed,2020-10-19,STOPPED OUT,-67,YES,,PINS,-670,This should be a quick trade for us. Beauty of an indicator.,,NO,NULL
+74089,Buy Calls,PINS,PINS Sep 18 2020 38 Call,,,1.47,2.27,38,0.5,,2020-08-13,,,ACTIVE,Closed,2020-08-19,TARGET REACHED,54,YES,,PINS,540,"PINS, tight since ER release.  Position is about to explode.  We begin to build our portfolio for next few weeks. ",,NO,NULL
+74072,Buy Calls,PINS,PINS Sep 18 2020 41 Call,,,1.25,2.5,41,0.3,,2020-09-01,,,ACTIVE,Closed,2020-09-01,STOPPED OUT,-74,YES,,PINS,-740,PINS with a beauty of a technical developing.  We want in here.,,NO,NULL
+73896,Buy Calls,PLAN,PLAN May 21 2021 67.5 Call,,,2.8,4.8,67.5,1,,2021-04-13,,,ACTIVE,Closed,2021-04-13,STOPPED OUT,-57,YES,,PLAN,-570,Bullish call flow does not stop.  Plan on a move towards $70,,NO,NULL
+73847,Buy Calls,PLBY,PLBY Jun 18 2021 60 Call,,,2.58,4.7,60,,,2021-06-09,,,ACTIVE,Closed,2021-06-09,STOPPED OUT,,YES,,PLBY,0,Incredible price activity this week in PLBY.  Quick trade.,,NO,NULL
+73925,Buy Calls,PLTR,PLTR Apr 1 2021 27 Call (Weekly),,,1.46,1.96,27,0.51,,2021-03-08,,,ACTIVE,Closed,2021-03-10,TARGET REACHED,34,YES,,PLTR,340,Grossly oversold.,,NO,NULL
+73867,Buy Calls,PLTR,PLTR Jun 18 2021 22 Call,,,1.02,1.54,22,0.45,,2021-05-19,,,ACTIVE,Closed,2021-05-27,TARGET REACHED,51,YES,,PLTR,510,Strong price action here.,,NO,NULL
+73941,Buy Calls,PLTR,PLTR Mar 5 2021 32.5 Call (Weekly),,,2.17,3.7,32.5,0.32,,2021-02-17,,,ACTIVE,Closed,2021-02-23,STOPPED OUT,-77,YES,,PLTR,-770,Quick trade opportunity.,,NO,NULL
+73895,Buy Calls,PLTR,PLTR May 21 2021 28 Call,,,1.37,2.75,28,0.5,,2021-04-14,,,ACTIVE,Closed,2021-04-14,STOPPED OUT,-57,YES,,PLTR,-570,PLTR is setting up for an explosive move higher.,,NO,NULL
+73795,Buy Calls,PLTR,PLTR Sep 17 2021 25 Call,,,0.91,1.44,25,0.21,,2021-08-09,,,ACTIVE,Closed,2021-08-12,TARGET REACHED,17,YES,,PLTR,170,Strong upside call volume and price activity.  PLTR is setting up nicely and we receive strong value with these Sep calls.,,NO,NULL
+73783,Buy Calls,PLTR,PLTR Sep 17 2021 27 Call,,,0.9,1.8,27,0.2,,2021-08-19,,,ACTIVE,OPEN,,,,NO,NULL,PLTR,NULL,Short term power move,,NO,NULL
+73831,Buy Calls,PLUG,PLUG Jul 16 2021 38 Call,,,1.3,2.35,38,0.5,,2021-06-29,,,ACTIVE,Closed,2021-06-29,STOPPED OUT,-56,YES,,PLUG,-560,PLUG on the move towards $40 short term,,NO,NULL
+73949,Buy Calls,PRTS,PRTS Feb 19 2021 20 Call,,,1.4,1.9,20,0.5,,2021-02-04,,,ACTIVE,Closed,2021-02-08,TARGET REACHED,36,YES,,PRTS,360,Quick trade opportunity.,,NO,NULL
+73912,Buy Calls,PSFE,PSFE May 21 2021 20 Call,,,1.35,2.7,20,,,2021-03-24,,,ACTIVE,Closed,2021-03-24,STOPPED OUT,-100,YES,,PSFE,-1000,BFT has triggered with enormous call volume calling into play over the last few sessions.  We move out to May strike to allow us more time with the market volatility.,,NO,NULL
+73804,Buy Calls,PTON,PTON Aug 20 2021 130 Call,,,2.6,5.2,130,0.8,,2021-07-30,,,ACTIVE,Closed,2021-07-30,STOPPED OUT,-61,YES,,PTON,-610,Setup for next week.  Weeklies are hot but we stick with the month end strike,,NO,NULL
+73845,Buy Calls,PTON,PTON Jul 16 2021 120 Call,,,3.3,4.75,120,0.8,,2021-06-11,,,ACTIVE,Closed,2021-06-22,TARGET REACHED,44,YES,,PTON,440,PTON has been on fire and now they are coming after the $150's.  We stay within the 120's here.,,NO,NULL
+74037,Buy Calls,PTON,PTON Oct 23 2020 140 Call (Weekly),,,2.91,4.1,140,1.15,,2020-10-15,,,ACTIVE,Closed,2020-10-15,TARGET REACHED,42,YES,,PTON,420,Quick trade.,,NO,NULL
+73993,Buy Calls,PYPL,PYPL Dec 31 2020 230 Call (Weekly),,,3.75,5.6,230,1.5,,2020-12-14,,,ACTIVE,Closed,2020-12-16,TARGET REACHED,49,YES,,PYPL,490,Range breakout....,,NO,NULL
+73846,Buy Calls,PYPL,PYPL Jul 2 2021 275 Call (Weekly),,,3.9,5.15,275,1.3,,2021-06-10,,,ACTIVE,Closed,2021-06-14,TARGET REACHED,32,YES,,PYPL,320,Beauty of a chart and price activity,,NO,NULL
+74028,Buy Calls,PYPL,PYPL Nov 20 2020 200 Call,,,3.5,4.6,200,1.25,,2020-11-03,,,ACTIVE,Closed,2020-11-04,TARGET REACHED,32,YES,,PYPL,320,PYPL with an absolute monster candle forming here...green and runs.,,NO,NULL
+74067,Buy Calls,PYPL,PYPL Sep 25 2020 202.5 Call (Weekly),,,4.1,6.9,202.5,1.3,,2020-09-09,,,ACTIVE,Closed,2020-09-11,STOPPED OUT,-63,YES,,PYPL,-630,PYPL has so much room higher to go.,,NO,NULL
+73805,Buy Calls,QCOM,QCOM Aug 20 2021 155 Call,,,1.67,2.95,155,0.25,,2021-07-29,,,ACTIVE,Closed,2021-07-29,STOPPED OUT,,YES,,QCOM,0,QCOM with a gap breakout here...$160 is possible short term.,,NO,NULL
+74053,Buy Calls,QCOM,QCOM Oct 16 2020 124 Call,,,1.72,1.92,124,0.81,,2020-09-28,,,ACTIVE,Closed,2020-10-06,TARGET REACHED,-56,YES,,QCOM,-560,"Strong call volume, strong price activity, and our triggers have qcom at 125 over the next week ",,NO,NULL
+74081,Buy Calls,QCOM,QCOM Sep 18 2020 120 Call,,,1.89,2.73,120,0.75,,2020-08-24,,,ACTIVE,Closed,2020-08-28,TARGET REACHED,45,YES,,QCOM,450,Beauty of a setup.,,NO,NULL
+73917,Buy Calls,QQQ,QQQ Apr 1 2021 327 Call (Weekly),,,3.26,5.5,327,1,,0221-03-17,,,ACTIVE,Closed,2021-03-17,STOPPED OUT,-69,YES,,QQQ,-690,"We begin, next opportunity. ",,NO,NULL
+73809,Buy Calls,QQQ,QQQ Aug 6 2021 372.5 Call (Weekly),,,2.15,4.3,372.5,0.75,,2021-07-26,,,ACTIVE,Closed,2021-07-26,STOPPED OUT,-57,YES,,QQQ,-570,QQQ is triggering here and we have a move towards $375 in play short term,,NO,NULL
+74006,Buy Calls,QQQ,QQQ Dec 18 2020 305 Call,,,2.62,4.35,305,0.95,,2020-11-30,,,ACTIVE,Closed,2020-12-01,TARGET REACHED,66,YES,,QQQ,660,"Great entry point.  End of month selling, buy this dip, and prepare for December.  First on list, Q's. ",,NO,NULL
+73996,Buy Calls,QQQ,QQQ Dec 31 2020 310 Call (Quarterly),,,2.9,3.27,310,1.2,,2020-12-09,,,ACTIVE,Closed,2020-12-14,TARGET REACHED,-70,YES,,QQQ,-700,QTrader has signaled and we have a monster turn \ value play here.,,YES,NULL
+73959,Buy Calls,QQQ,QQQ Feb 12 2021 335 Call (Weekly),,,2.9,3.94,335,1.1,,2021-01-25,,,ACTIVE,Closed,2021-01-26,TARGET REACHED,36,YES,,QQQ,360,Another opportunity within the q's,,NO,NULL
+73956,Buy Calls,QQQ,QQQ Feb 12 2021 335 Call (Weekly),,,3.13,5.45,335,0.91,,2021-01-27,,,ACTIVE,Closed,2021-01-29,STOPPED OUT,-71,YES,,QQQ,-710,Once more.,,NO,NULL
+73961,Buy Calls,QQQ,QQQ Feb 5 2021 333 Call (Weekly),,,2.51,3.95,333,1.07,,2021-01-22,,,ACTIVE,Closed,2021-01-25,TARGET REACHED,57,YES,,QQQ,570,QTrader has signaled and we have a QQQ move into the 330's next week.,,YES,NULL
+73978,Buy Calls,QQQ,QQQ Jan 22 2021 315 Call (Weekly),,,2.52,3.39,315,1.02,,2021-01-06,,,ACTIVE,Closed,2021-01-06,TARGET REACHED,51,YES,,QQQ,510,First opportunity.,,NO,NULL
+73984,Buy Calls,QQQ,QQQ Jan 8 2021 315 Call (Weekly),,,2.42,4.05,315,0.92,,2020-12-24,,,ACTIVE,Closed,2020-12-29,TARGET REACHED,67,YES,,QQQ,670,Q's have triggered and this is a beauty of a set-up for next weeks trade.,,NO,NULL
+73840,Buy Calls,QQQ,QQQ Jul 2 2021 345 Call (Weekly),,,2.88,4.03,345,1.1,,2021-06-16,,,ACTIVE,Closed,2021-06-17,TARGET REACHED,40,YES,,QQQ,400,Pay attention to what's beginning to lead.,,NO,NULL
+73937,Buy Calls,QQQ,QQQ Mar 12 2021 325 Call (Weekly),,,3.33,5.55,325,1.2,,2021-02-23,,,ACTIVE,Closed,2021-02-23,TARGET REACHED,69,YES,,QQQ,690,Turn it...,,NO,NULL
+73883,Buy Calls,QQQ,QQQ May 14 2021 345 Call (Weekly),,,2.65,4.7,345,1.2,,2021-04-29,,,ACTIVE,Closed,2021-04-29,STOPPED OUT,-77,YES,,QQQ,-770,This is a trade set-up for tomorrow and into next week.  Use this pull back on the q's for a great entry point.,,NO,NULL
+74022,Buy Calls,QQQ,QQQ Nov 27 2020 293 Call (Weekly),,,3.05,4.59,293,1.42,,2020-11-10,,,ACTIVE,Closed,2020-11-11,TARGET REACHED,39,YES,,QQQ,390,Red to green type of day\week.,,YES,NULL
+74032,Buy Calls,QQQ,QQQ Nov 6 2020 287.5 Call (Weekly),,,3.9,6.5,287.5,1.1,,2020-10-26,,,ACTIVE,Closed,2020-10-26,STOPPED OUT,,YES,,QQQ,0,QTrader has signaled and we have a short term opportunity for a hard bounce this week.,,YES,NULL
+74045,Buy Calls,QQQ,QQQ Oct 23 2020 287.5 Call (Weekly),,,3.45,4.4,287.5,1.5,,2020-10-06,,,ACTIVE,Closed,2020-10-09,TARGET REACHED,21,YES,,QQQ,210,QTrader has signaled and we have a monster opportunity of Q's running towards $290 short term.  We move to end of month strike.,,YES,NULL
+73906,Buy Calls,QRVO,QRVO Apr 16 2021 200 Call,,,2.5,5,200,0.9,,2021-04-01,,,ACTIVE,Closed,2021-04-05,TARGET REACHED,100,YES,,QRVO,1000,Quick trade opportunity into next week.,,NO,NULL
+73898,Buy Calls,RBLX,RBLX Apr 30 2021 80 Call (Weekly),,,2.2,4.4,80,0.7,,2021-04-12,,,ACTIVE,Closed,2021-04-13,TARGET REACHED,100,YES,,RBLX,1000,RBLX is exploding here and has all the makings of a monster move well into the 80's over the next week.,,NO,NULL
+73844,Buy Calls,RBLX,RBLX Jun 25 2021 102 Call (Weekly),,,3.1,6.1,102,0.95,,2021-06-11,,,ACTIVE,Closed,2021-06-11,STOPPED OUT,-62,YES,,RBLX,-620,RBLX 107 - 110's are hot. Incredible technical / chart here,,NO,NULL
+73861,Buy Calls,RBLX,RBLX Jun 4 2021 100 Call (Weekly),,,2.2,3.7,100,2.2,,2021-05-26,,,ACTIVE,Closed,2021-05-27,STOPPED OUT,,YES,,RBLX,0,Quick trade,,NO,NULL
+73960,Buy Calls,RKT,RKT Feb 19 2021 23 Call,,,1.1,1.95,23,0.5,,2021-01-25,,,ACTIVE,Closed,2021-01-25,TARGET REACHED,77,YES,,RKT,770,Quick trade opportunity.,,NO,NULL
+73853,Buy Calls,RKT,RKT Jun 18 2021 20 Call,,,0.8,1.45,20,0.2,,2021-06-02,,,ACTIVE,Closed,2021-06-02,TARGET REACHED,67,YES,,RKT,670,Quick trade opportunity trigger.,,NO,NULL
+74020,Buy Calls,ROKU,ROKU Nov 20 2020 242.5 Call,,,3.7,4.4,242.5,1.5,,2020-11-11,,,ACTIVE,Closed,2020-11-12,TARGET REACHED,19,YES,,ROKU,190,Another quick trade opportunity,,NO,NULL
+74077,Buy Calls,ROKU,ROKU Sep 4 2020 180 Call (Weekly),,,4.2,6.95,180,1.5,,2020-08-28,,,ACTIVE,Closed,2020-08-28,TARGET REACHED,65,YES,,ROKU,650,Quick trade,,NO,NULL
+73948,Buy Calls,RUN,RUN Feb 19 2021 80 Call,,,3.2,3.55,80,1.2,,2021-02-05,,,ACTIVE,Closed,2021-02-09,TARGET REACHED,11,YES,,RUN,110,Outstanding technical trigger here.  Could be a monster move into the 80's,,NO,NULL
+74082,Buy Calls,RUN,RUN Sep 18 2020 55 Call,,,2.05,3.1,55,0.75,,2020-08-24,,,ACTIVE,Closed,2020-08-28,TARGET REACHED,51,YES,,RUN,510,Breakout,,NO,NULL
+74046,Buy Calls,SE,SE Oct 23 2020 175 Call (Weekly),,,4.35,5.3,175,1.7,,2020-10-06,,,ACTIVE,Closed,2020-10-08,TARGET REACHED,28,YES,,SE,280,SE ready to go....,,NO,NULL
+74031,Buy Calls,SFIX,SFIX Nov 20 2020 40 Call,,,1.44,2.01,40,0.62,,2020-10-27,,,ACTIVE,Closed,2020-10-29,TARGET REACHED,40,YES,,SFIX,400,SFIX continues to charge higher and now a triggered has been ignited for $40 plus short term,,NO,NULL
+73950,Buy Calls,SKLZ,SKLZ Feb 19 2021 35 Call,,,1.4,4.4,35,0.45,,2021-02-03,,,ACTIVE,Closed,2021-02-04,TARGET REACHED,214,YES,,SKLZ,2140,SKLZ breaking hot over $30,,NO,NULL
+73848,Buy Calls,SKLZ,SKLZ Jun 18 2021 27 Call,,,1.45,2.5,27,0.55,,2021-06-08,,,ACTIVE,Closed,2021-06-10,STOPPED OUT,-56,YES,,SKLZ,-560,SKLZ has room to $30 short term,,NO,NULL
+73940,Buy Calls,SKLZ,SKLZ Mar 19 2021 45 Call,,,2.4,4.8,45,,,2021-02-18,,,ACTIVE,Closed,2021-02-18,STOPPED OUT,,YES,,SKLZ,0,"It's time.  First opportunity, way oversold. ",,NO,NULL
+73885,Buy Calls,SKLZ,SKLZ May 21 2021 23 Call,,,1.75,2.95,23,0.4,,2021-04-28,,,ACTIVE,Closed,2021-04-28,STOPPED OUT,-76,YES,,SKLZ,-760,Next opportunity.,,NO,NULL
+73955,Buy Calls,SKT,SKT Feb 19 2021 25 Call,,,3.1,5.8,25,0.95,,2021-01-28,,,ACTIVE,Closed,2021-01-28,STOPPED OUT,-61,YES,,SKT,-610,SKT is next.,,NO,NULL
+73952,Buy Calls,SLV,SLV Feb 19 2021 30 Call,,,1.39,2.5,30,,,2021-02-01,,,ACTIVE,Closed,2021-02-01,STOPPED OUT,-100,YES,,SLV,-1000,SLV is headed into the 30's short term.,,NO,NULL
+73902,Buy Calls,SNAP,SNAP Apr 23 2021 64 Call (Weekly),,,3,4,64,1.2,,2021-04-07,,,ACTIVE,Closed,2021-04-08,TARGET REACHED,33,YES,,SNAP,330,Monster in the making,,NO,NULL
+73810,Buy Calls,SNAP,SNAP Aug 20 2021 80 Call,,,2.33,2.68,80,0.5,,2021-07-26,,,ACTIVE,Closed,2021-08-10,TARGET REACHED,15,YES,,SNAP,150,Perfect opportunity for entry on SNAP with this pullback. SNAP is $80 with ease very soon.,,NO,NULL
+73793,Buy Calls,SNAP,SNAP Aug 27 2021 80 Call (Weekly),,,2.17,3.95,80,0.72,,2021-08-10,,,ACTIVE,Closed,2021-08-10,STOPPED OUT,-61,YES,,SNAP,-610,SNAP with the perfect re-entry setup and we get to roll out to end of month strike.,,NO,NULL
+74013,Buy Calls,SNAP,SNAP Dec 18 2020 46 Call,,,1.45,3.4,46,0.61,,2020-11-20,,,ACTIVE,Closed,2020-11-23,TARGET REACHED,135,YES,,SNAP,1350,SNAP is on the move and breaking out here with beautiful upside call volume last few sessions.,,NO,NULL
+74008,Buy Calls,SNAP,SNAP Dec 18 2020 50 Call,,,1.07,2.5,50,0.5,,2020-11-25,,,ACTIVE,Closed,2020-11-25,STOPPED OUT,-53,YES,,SNAP,-530,SNAP triggering with bullish price flow.,,NO,NULL
+73977,Buy Calls,SNAP,SNAP Jan 22 2021 53 Call (Weekly),,,1.58,2.38,53,0.55,,2021-01-06,,,ACTIVE,Closed,2021-01-07,TARGET REACHED,50,YES,,SNAP,500,Bullish engulfing.,,NO,NULL
+73962,Buy Calls,SNAP,SNAP Jan 29 2021 57.5 Call (Weekly),,,1.07,1.75,57.5,0.46,,2021-01-21,,,ACTIVE,Closed,2021-01-25,STOPPED OUT,-88,YES,,SNAP,-880,Quick trade opportunity.,,NO,NULL
+73836,Buy Calls,SNAP,SNAP Jul 16 2021 68 Call,,,2,3.5,68,0.75,,2021-06-23,,,ACTIVE,Closed,2021-06-24,TARGET REACHED,75,YES,,SNAP,750,SNAP looks so ready to go.  What a chart!,,NO,NULL
+73865,Buy Calls,SNAP,SNAP Jun 18 2021 60 Call,,,1.62,2.52,60,0.5,,2021-05-20,,,ACTIVE,Closed,2021-05-24,TARGET REACHED,56,YES,,SNAP,560,SNAP has a powerful setup emerging here.,,NO,NULL
+73856,Buy Calls,SNAP,SNAP Jun 18 2021 65 Call,,,1.4,2.8,65,0.51,,2021-05-28,,,ACTIVE,Closed,2021-05-28,STOPPED OUT,-59,YES,,SNAP,-590,Explosive trigger brewing.,,NO,NULL
+73884,Buy Calls,SNAP,SNAP May 21 2021 65 Call,,,2.2,4.4,65,0.5,,2021-04-29,,,ACTIVE,Closed,2021-04-29,STOPPED OUT,-56,YES,,SNAP,-560,SNAP is providing outstanding opportunity here and a short term move into the 65 - 70 range area is in play.,,NO,NULL
+74048,Buy Calls,SNAP,SNAP Oct 16 2020 28 Call,,,0.65,0.72,28,0.38,,2020-10-01,,,ACTIVE,Closed,2020-10-06,STOPPED OUT,-41,YES,,SNAP,-410,SNAP has strong price activity with tremendous upside movement indicating here.,,NO,NULL
+73801,Buy Calls,SNOW,SNOW Aug 20 2021 300 Call,,,5,9,300,1.8,,2021-08-03,,,ACTIVE,Closed,2021-08-03,STOPPED OUT,54,YES,,SNOW,540,Monster big breakout in SNOW.  $300 seems magnet over the next few weeks.,,NO,NULL
+73822,Buy Calls,SNOW,SNOW Jul 23 2021 270 Call (Weekly),,,5.2,8.7,270,1.8,,2021-07-09,,,ACTIVE,Closed,2021-07-09,TARGET REACHED,68,YES,,SNOW,680,Move out two weeks but SNOW set to rip higher over the next week.,,NO,NULL
+73854,Buy Calls,SOFI,SOFI Jun 18 2021 25 Call,,,1.05,1.75,25,0.45,,2021-06-02,,,ACTIVE,Closed,2021-06-02,TARGET REACHED,82,YES,,SOFI,820,Strong price activity as well as strong call volume into the 30's.,,NO,NULL
+73968,Buy Calls,SONO,SONO Feb 19 2021 30 Call,,,1.35,1.48,30,0.55,,2021-01-14,,,ACTIVE,Closed,2021-01-22,TARGET REACHED,10,YES,,SONO,100,SONO has triggered nd we have a move into the 30's over the next few weeks in play.,,NO,NULL
+73935,Buy Calls,SONO,SONO Mar 19 2021 40 Call,,,1.97,3.2,40,0.72,,2021-02-23,,,ACTIVE,Closed,2021-02-25,TARGET REACHED,-64,YES,,SONO,-640,One more for today.  Option volume in SONO continues to impress.  Price activity and option volume lead to $45 short term.,,NO,NULL
+74091,Buy Calls,SPOT,SPOT Aug 21 2020 280 Call,,,4.2,7.7,280,1.5,,2020-08-12,,,ACTIVE,Closed,2020-08-12,STOPPED OUT,-58,YES,,SPOT,-580,Monster move in play.,,NO,NULL
+73914,Buy Calls,SPWR,SPWR Apr 16 2021 38 Call,,,1.5,2.7,38,,,2021-03-22,,,ACTIVE,Closed,2021-03-22,STOPPED OUT,-72,YES,,SPWR,-720,SPWR has triggered after a firming bottoming pattern.  SPWR has the potential to go above $40 this week.,,NO,NULL
+74015,Buy Calls,SQ,SQ Dec 4 2020 195 Call (Weekly),,,4.75,5.15,195,1.7,,2020-11-17,,,ACTIVE,Closed,2020-11-09,TARGET REACHED,9,YES,,SQ,90,SQ with a quick trade opportunity.,,NO,NULL
+73825,Buy Calls,SQ,SQ Jul 23 2021 260 Call (Weekly),,,4.35,7.85,260,1.05,,2021-07-06,,,ACTIVE,Closed,2021-07-06,STOPPED OUT,-76,YES,,SQ,-760,We move to Jul 23 weeklies.  Big volume across the board for 260 plus short term on SQ,,NO,NULL
+74074,Buy Calls,SQ,SQ Sep 18 2020 180 Call,,,4.2,7.9,180,0.95,,2020-09-01,,,ACTIVE,Closed,2020-09-01,STOPPED OUT,-64,YES,,SQ,-640,"First trade of September and it's a monster, SQ clear path towards $180 and fast. ",,NO,NULL
+73887,Buy Calls,STX,STX May 21 2021 95 Call,,,1.38,2.15,95,0.55,,2021-04-26,,,ACTIVE,Closed,2021-04-27,TARGET REACHED,57,YES,,STX,570,Big breakout range,,NO,NULL
+74026,Buy Calls,SWKS,SWKS Nov 20 2020 150 Call,,,2.8,3.8,150,0.92,,2020-11-05,,,ACTIVE,Closed,2020-11-09,TARGET REACHED,36,YES,,SWKS,360,So much more room to rally.,,NO,NULL
+74039,Buy Calls,TDOC,TDOC Oct 23 2020 242.5 Call (Weekly),,,4.7,7.9,242.5,0.7,,2020-10-13,,,ACTIVE,Closed,2020-10-19,STOPPED OUT,-82,YES,,TDOC,-820,"Quick trade, TDOC looking to explode higher ",,NO,NULL
+73876,Buy Calls,TECK,TECK Jun 18 2021 28 Call,,,0.93,1.9,28,0.2,,2021-05-10,,,ACTIVE,Closed,2021-05-10,STOPPED OUT,-64,YES,,TECK,-640,TECH headed to $30 short term,,NO,NULL
+73834,Buy Calls,TIGR,TIGR Jul 16 2021 30 Call,,,1.5,1.9,30,0.5,,2021-06-24,,,ACTIVE,Closed,2021-06-29,TARGET REACHED,27,YES,,TIGR,270,TIGR has all the ingredients for an absolute monster move over the next week,,NO,NULL
+73899,Buy Calls,TIGR,TIGR May 21 2021 22.5 Call,,,2.15,2.75,22.5,0.5,,2021-04-09,,,ACTIVE,Closed,2021-04-28,TARGET REACHED,28,YES,,TIGR,280,We move out to May but we want TIGR here as we see it as a strong set-up for next week.,,NO,NULL
+73907,Buy Calls,TLRY,TLRY Apr 16 2021 26 Call,,,1.63,3.3,26,0.61,,2021-03-31,,,ACTIVE,Closed,2021-03-31,STOPPED OUT,-61,YES,,TLRY,-610,Next opportunity.,,NO,NULL
+73958,Buy Calls,TLRY,TLRY Feb 19 2021 22.5 Call,,,1.64,2.95,22.5,0.3,,2021-01-26,,,ACTIVE,Closed,2021-01-27,TARGET REACHED,80,YES,,TLRY,800,This can get loose really fast and squeze higher,,NO,NULL
+73942,Buy Calls,TME,TME Mar 19 2021 30 Call,,,1.3,2.15,30,0.3,,2021-02-16,,,ACTIVE,Closed,2021-02-22,STOPPED OUT,-77,YES,,TME,-770,Explosive chart,,NO,NULL
+73919,Buy Calls,TRIP,TRIP Apr 16 2021 70 Call,,,2.95,5.9,70,0.5,,2021-03-15,,,ACTIVE,Closed,2021-03-15,STOPPED OUT,-74,YES,,TRIP,-740,Monster stock developing and TRIP is on it's way to $100 over the next few months.,,NO,NULL
+73930,Buy Calls,TRIP,TRIP Mar 19 2021 57.5 Call,,,2.42,4.45,57.5,1,,2021-03-02,,,ACTIVE,Closed,2021-03-05,STOPPED OUT,-58,YES,,TRIP,-580,TRIP is headed towards $60 short term.,,NO,NULL
+74004,Buy Calls,TSM,TSM Dec 18 2020 105 Call,,,1.45,2.21,105,0.5,,2020-12-01,,,ACTIVE,Closed,2020-12-01,TARGET REACHED,52,YES,,TSM,520,Bull flag breakout.....,,NO,NULL
+73972,Buy Calls,TSM,TSM Jan 29 2021 135 Call (Weekly),,,1.95,3.8,135,0.75,,2021-01-11,,,ACTIVE,Closed,2021-01-11,STOPPED OUT,-61,YES,,TSM,-610,Monster volume coming in on TSM 135's here.  Indicators have an explosive move with institutional backing on upside calls.,,NO,NULL
+74061,Buy Calls,TSM,TSM Oct 9 2020 90 Call (Weekly),,,1.85,3.7,90,0.5,,2020-09-15,,,ACTIVE,Closed,2020-09-15,STOPPED OUT,-77,YES,,TSM,-770,"Heavy volume, strong upside call volume.  This move does not stop and TSM is 90 plus short term.",,NO,NULL
+74090,Buy Calls,TSM,TSM Sep 18 2020 85 Call,,,1.8,3.6,85,0.6,,2020-08-12,,,ACTIVE,Closed,2020-08-12,TARGET REACHED,-63,YES,,TSM,-630,We move out to Sep for this trade but absolutely love TSM over the next few weeks.,,NO,NULL
+73824,Buy Calls,TTD,TTD Jul 30 2021 85 Call (Weekly),,,3,5.5,85,1.9,,2021-07-07,,,ACTIVE,Closed,2021-07-07,STOPPED OUT,-37,YES,,TTD,-370,Next level move here.,,NO,NULL
+73994,Buy Calls,TWTR,TWTR Dec 24 2020 53 Call (Weekly),,,1.44,1.8,53,0.51,,2020-12-11,,,ACTIVE,Closed,2020-12-14,TARGET REACHED,25,YES,,TWTR,250,Next opportunity.  Weeklies for Dec 24.,,NO,NULL
+73973,Buy Calls,TWTR,TWTR Jan 22 2021 50 Call (Weekly),,,1.15,1.68,50,0.35,,2021-01-11,,,ACTIVE,Closed,2021-01-11,TARGET REACHED,46,YES,,TWTR,460,"Overreaction, quick trade. ",,NO,NULL
+74085,Buy Calls,TWTR,TWTR Sep 18 2020 41 Call,,,1.24,1.86,41,0.52,,2020-08-19,,,ACTIVE,Closed,2020-08-26,TARGET REACHED,50,YES,,TWTR,500,TWTR clearing range and great value for Sep Calls,,NO,NULL
+73850,Buy Calls,U,U Jul 16 2021 105 Call,,,3,3.8,105,1.1,,2021-06-07,,,ACTIVE,Closed,2021-06-10,TARGET REACHED,27,YES,,U,270,Monster breakout developing in U,,NO,NULL
+73897,Buy Calls,U,U May 21 2021 110 Call,,,3.3,4.5,110,0.75,,2021-04-13,,,ACTIVE,Closed,2021-04-22,TARGET REACHED,36,YES,,U,360,U is about to explode higher over the next few weeks.  So much potential with U here.,,NO,NULL
+73771,Buy Calls,U,U Sep 17 2021 140 Call,,,2,4.1,140,0.5,,2021-09-02,,,ACTIVE,OPEN,,,,NO,,U,NULL,Breakout,,NO,NULL
+73979,Buy Calls,UBER,UBER Jan 29 2021 57 Call (Weekly),,,1.52,2.22,57,0.51,,2021-01-05,,,ACTIVE,Closed,2021-01-07,TARGET REACHED,46,YES,,UBER,460,UBER has triggered and we have a move in play towards $60.  We move to end of Jan strike for this trade.,,NO,NULL
+73868,Buy Calls,UBER,UBER Jun 18 2021 52.5 Call,,,1.41,2.45,52.5,0.25,,2021-05-18,,,ACTIVE,Closed,2021-05-18,STOPPED OUT,-67,YES,,UBER,-670,Monster developing,,NO,NULL
+73944,Buy Calls,UBER,UBER Mar 19 2021 70 Call,,,1.7,3.4,70,0.5,,2021-02-11,,,ACTIVE,Closed,2021-02-18,STOPPED OUT,-68,YES,,UBER,-680,Volume exploding on the upside call volume here.,,NO,NULL
+74065,Buy Calls,UBER,UBER Oct 2 2020 39 Call (Weekly),,,0.9,1.1,39,0.25,,2020-09-11,,,ACTIVE,Closed,2020-09-15,TARGET REACHED,22,YES,,UBER,220,UBER price action has been fantastic and now has $40 in it's sights.,,NO,NULL
+74043,Buy Calls,UBER,UBER Oct 30 2020 39 Call (Weekly),,,1.09,2.2,39,0.25,,2020-10-08,,,ACTIVE,Closed,2020-10-08,STOPPED OUT,-89,YES,,UBER,-890,UBER upside call volume and price activity has been impressive.  We jump in here as indicators are pointing $40 short term.,,NO,NULL
+73924,Buy Calls,V,V Apr 1 2021 230 Call (Weekly),,,3.45,5.95,230,1.4,,2021-03-08,,,ACTIVE,Closed,2021-03-18,STOPPED OUT,-59,YES,,V,-590,V looks absolutely fantastic and we have a breakout in place now.,,NO,NULL
+73879,Buy Calls,VALE,VALE Jun 18 2021 22 Call,,,0.61,0.98,22,0.15,,2021-05-05,,,ACTIVE,Closed,2021-05-06,TARGET REACHED,61,YES,,VALE,610,"We move out to June but Vale providing strong value and price activity, regardless of tape. ",,NO,NULL
+73943,Buy Calls,WDC,WDC Mar 19 2021 70 Call,,,2.6,2.9,70,1,,2021-02-12,,,ACTIVE,Closed,2021-02-18,TARGET REACHED,12,YES,,WDC,120,WDC is loose...,,NO,NULL
+73929,Buy Calls,WFC,WFC Mar 19 2021 40 Call,,,0.68,1.36,40,0.25,,2021-03-03,,,ACTIVE,Closed,2021-03-04,STOPPED OUT,-62,YES,,WFC,-620,Explosive chart brewing on WFC,,NO,NULL
+73830,Buy Calls,WKHS,WKHS Jul 16 2021 20 Call,,,1.3,2.3,20,0.51,,2021-06-29,,,ACTIVE,Closed,2021-06-29,STOPPED OUT,-59,YES,,WKHS,-590,Monster move forming here.,,NO,NULL
+73908,Buy Calls,X,X Apr 16 2021 27.5 Call,,,1.15,1.8,27.5,0.45,,2021-03-30,,,ACTIVE,Closed,2021-03-31,TARGET REACHED,57,YES,,X,570,Beauty of a breakout and X has outstanding price activity behind it.,,NO,NULL
+73976,Buy Calls,X,X Jan 22 2021 22.5 Call (Weekly),,,0.88,1.32,22.5,0.25,,2021-01-06,,,ACTIVE,Closed,2021-01-08,TARGET REACHED,35,YES,,X,350,"Quick trade, wanted a pull back but now clear path way for another 15% over the next few sessions. ",,NO,NULL
+73878,Buy Calls,X,X Jun 4 2021 28 Call (Weekly),,,1.18,1.81,28,0.5,,2021-05-06,,,ACTIVE,Closed,2021-05-07,TARGET REACHED,53,YES,,X,530,"Chart set up is fantastic, just need this to follow through. ",,NO,NULL
+73910,Buy Calls,XLE,XLE Apr 16 2021 52 Call,,,0.93,1.68,52,0.3,,2021-03-26,,,ACTIVE,Closed,2021-03-26,STOPPED OUT,-59,YES,,XLE,-590,"Strong price activity, strong option volume.  Checks all the boas for triggers.   ",,NO,NULL
+73934,Buy Calls,XOM,XOM Mar 19 2021 58 Call,,,1.3,1.57,58,0.5,,2021-02-24,,,ACTIVE,Closed,2021-03-01,TARGET REACHED,21,YES,,XOM,210,Beauty of a breakout,,NO,NULL
+73946,Buy Calls,XPEV,XPEV Feb 26 2021 55 Call (Weekly),,,2.12,4.25,55,0.91,,2021-02-09,,,ACTIVE,Closed,2021-02-16,STOPPED OUT,-57,YES,,XPEV,-570,XPEV has strong upside call volume but the technicals are outstanding right now.,,NO,NULL
+73832,Buy Calls,YALA,YALA Jul 16 2021 22.5 Call,,,1,2,22.5,0.3,,2021-06-28,,,ACTIVE,Closed,2021-06-28,STOPPED OUT,-70,YES,,YALA,-700,YALA in breakout mode,,NO,NULL
+73893,Buy Calls,YETI,YETI Apr 30 2021 90 Call (Weekly),,,1.85,4,90,0.6,,2021-04-16,,,ACTIVE,Closed,2021-04-16,STOPPED OUT,-64,YES,,YETI,-640,YETI is breaking out here.  $90 is a magnet.  Quick trade.,,NO,NULL
+74035,Buy Calls,ZI,ZI Nov 20 2020 50 Call,,,1.65,3.3,50,0.65,,2020-10-19,,,ACTIVE,Closed,2020-10-26,STOPPED OUT,-61,YES,,ZI,-610,,,NO,NULL

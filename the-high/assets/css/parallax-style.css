@@ -1,0 +1,346 @@
+/*
+*
+*
+*
+* Custom stlyesheet for parrallax template
+* Used for the TTCCorp-YogaPosturesForAddictionRecovery template page
+*
+*/ 
+
+.yoga-wrapp {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+	top: 0;
+	scroll-behavior: smooth;
+}
+/** menu & nav **/
+  
+
+#nav {
+    list-style: none;
+    position: fixed;
+	top: 135px;
+    right: 44px;
+    z-index: 50;
+    height: 280px;
+	scroll-behavior: smooth;
+} 
+
+#nav li img{ opacity: 0.4;}
+
+#nav li a.active img,
+#nav li a:hover img{opacity: 1;}
+
+#nav li a:before {
+    position: absolute;
+    left: -75px;
+    width: 100px;
+    color: #fff;
+	font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+}
+
+#nav li a#n-intro:hover:before {
+    content: 'Introduction';
+}
+
+#nav li a#n-mountain:hover:before {
+    content: 'Mountain';
+}
+
+#nav li a#n-tree:hover:before {
+    content: 'Tree';
+}
+
+#nav li a#n-warrior:hover:before {
+    content: 'Warrior';
+}
+
+#nav li a#n-legs:hover:before {
+    content: 'Legs';
+}
+
+#nav li a#n-child:hover:before {
+    content: 'Child';
+}
+
+#nav li a#n-corpse:hover:before {
+    content: 'Corpse';
+}
+
+#nav li a#n-foot:hover:before {
+    content: 'Learn More';
+}
+
+
+
+/** main backgrounds & positioning **/
+ 
+.background{
+	position: relative;
+	top: 0;
+	background-repeat: no-repeat;
+	background-position: 50% 40%;
+	background-size:  auto;
+	background-attachment: scroll; 
+    color: #fff;
+    height: 100vh;
+    width: 100vw;
+    margin: 0 auto; 
+    padding-top: 0;
+    overflow: hidden;
+    z-index: 2;
+} 
+
+#intro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    background-color: #b5e1ea;
+    background-position: center;
+    background-size: auto;
+    position: relative;
+    color: #004262;
+    margin: 0 auto;
+    padding: 0;
+} 
+
+#mountain{background-image:url(../images/yoga/02-Mountain-Background-900x600.jpg ); background-color: #004262;}
+#tree{background-image:url(../images/yoga/03-Tree-Background-900x600.jpg ); background-color: #50724d ;}
+#warrior{background-image:url(../images/yoga/04-Warrior-Background-900x600.jpg ); background-color: #358ca0;}
+#legs{background-image:url(../images/yoga/05-LegsWall-Background-900x600.jpg ); background-color: #ced7a0 ;}
+#child{background-image:url(../images/yoga/06-Childs-Background-900x600.jpg ); background-color: #1b6781;}
+#corpse{background-image:url(../images/yoga/07-Corpse-Background-900x600.jpg ); background-color: #9dd28e;}
+
+
+
+
+/*** poses ***/
+ 
+
+.pose{
+	position: relative;
+    margin: 0 auto; 
+    width: 100vw;
+	height: 100%;
+    overflow: hidden;
+}
+
+.bg{  
+	height: 100%;
+	background-size: 33%;
+	background-repeat: no-repeat ;
+	background-attachment: fixed;
+    padding: 0;
+    position: relative;
+    width: inherit;
+    z-index: 10;
+}
+
+#mountain .bg{
+	background-image: url(../images/yoga/02-Mountain-YogaPose.png );
+	background-position: 50% 72% ;
+}
+#tree .bg{
+	background-image: url(../images/yoga/03-Tree-YogaPose.png );
+	background-position: 50% 72%;
+}
+#warrior .bg{
+	background-image:url(../images/yoga/04-Warrior-YogaPose.png );
+	background-position: 50% 73.7%;
+}
+#legs .bg{
+	background-image:url(../images/yoga/05-LegsWall-YogaPose.png ) ;
+	background-position:50% 77.3%;
+}
+#child .bg{
+	background-image:url(../images/yoga/06-Childs-YogaPose.png ) ;
+	background-position:50% 83.5%;
+}
+#corpse .bg{
+	background-image:url(../images/yoga/07-Corpse-YogaPose.png ) ;
+	background-position:50% 84%;
+}
+
+
+
+/*** content ****/
+
+
+.para-content {
+	position: absolute; 
+	background-color: transparent;
+	width: 100%;
+	max-width: none; 
+	top: 7vw;
+    padding: 0;
+    margin: 1em auto;
+}
+
+
+.para-content h1{
+	padding: 0;
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+
+.para-content h2 {
+    margin: 0;
+    padding: 0;
+	color: #fff;
+    font-size: 24px;
+	font-weight: 600;
+    text-align: center;
+	letter-spacing: 2px;
+}
+
+.para-content p {
+    float: none;
+	width: 100%;
+	max-width: 610px;
+    margin: .5em auto;
+	color: inherit;
+	font-size: 18px;
+	font-weight: 600;
+    text-align: center;
+	line-height: 1.1;
+	
+}
+
+#intro p{
+	margin: 1em auto;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+#mountain h1{color: #9DD08E;}
+#tree h1{color: #B5E0EA;}
+#warrior h1{color: #E4ECAD;}
+#legs h1{color: #358B9F;}
+#child h1{color: #9DD08E;}
+#corpse h1{color: #004261;}
+
+/*** foot ***/
+footer.yoga {
+    position: relative;
+	background-color: #004262;
+	background-position: 50% 87.5%;
+	background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    text-align: center;
+}
+
+#outro { 
+	margin: 0 auto;
+    position: relative;
+    top: 10%;
+}
+
+p.outro-content {
+    position: relative;
+    top: 2em;
+    margin-top: 0;
+	padding-bottom: 1em;
+    color: #fff;
+    font-size: 1em;
+    opacity: .7;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+#outro p.light a,
+#outro p.dark a {
+    display: block;
+    margin: 1em auto 0;
+    padding-top: 1em;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase; 
+	text-decoration: none;
+	border-top: 5px solid #cbdae0;
+}
+
+p.dark a{ color: #348c9f;}
+p.light a{ color: #23b1ca;}
+
+.pose-figure{display: none;}
+  
+ 
+ @media (max-width: 1440px){
+	 
+	#warrior .bg{background-position: 50% 73%;}
+	#legs .bg{background-position:50% 76%;}
+	#child .bg{background-position:50% 81.5%;}
+	#corpse .bg{ background-position:50% 82.5%;}
+
+ }
+ 
+ 
+
+ 
+ @media (max-width: 1280px){
+	
+	#warrior .bg{background-position: 50% 73.5%;}
+	#legs .bg{background-position:50% 77%;}
+	#child .bg{background-position:50% 82%;}
+	#corpse .bg{ background-position:50% 82.5%;}
+
+ }
+ 
+ 
+ 
+ @media (max-width: 1080px){
+	 
+	 
+	#warrior .bg{background-position: 50% 73%;}
+	#legs .bg{background-position:50% 75.5%;}
+	#child .bg{background-position:50% 80%;}
+	#corpse .bg{ background-position:50% 80.5%;}
+ }
+ 
+ 
+ 
+ @media (max-width: 1024px){
+	 
+	 
+	 #nav li{margin: 12px auto;}
+	
+	.background{top: 125px;}
+	.bg{background-size: 75%;} 
+
+ }
+ 
+ 
+ @media (max-width: 680px){ 
+ 
+	#nav{right: 12px;}
+	.background{top: 0;}
+	.para-content {
+		top: 26vw;
+		left: 5%;
+		max-width: 80%;
+	}
+	#nav li a:before {
+		position: absolute;
+		left: -5px;
+		width: 30px;  
+		font-size: 12px;
+	}
+	
+	.pose{ min-width: 0; width: 100%;}
+	.para-content h1{ font-size: 28px;}
+
+	.para-content h2 { font-size: 18px;}
+
+	.para-content p { font-size: 16px;}
+
+
+
+ }

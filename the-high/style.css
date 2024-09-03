@@ -851,7 +851,7 @@ h2.post-title {
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 300px;
-    margin: .5rem auto;
+    margin: .5rem 0;
 }
 
 section.filter-section {

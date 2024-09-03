@@ -251,59 +251,6 @@ function high_breadcrumbs()
 
 
 
-add_shortcode('sample_query', 'high_sample_query');
-function high_sample_query()
-{
-
-	$args = array(
-		'post_type' => 'sample',
-		'publish_status' => 'published',
-		'posts_per_page' => -1
-	);
-
-	$sample_query = new WP_Query($args);
-
-	if ($sample_query->have_posts()):
-		$result = '';
-		$i = 0;
-		ob_start();
-
-
-		while ($sample_query->have_posts()):
-			$sample_query->the_post();
-			$i++;
-			$title = get_the_title();
-
-			if ($i % 2 == 0):
-
-				echo '<article class="sample-post  even-row"><div class="sample-entry">';
-				echo '<h2 class="sample-title post-title">' . $title . '</h2>';
-				the_excerpt();
-				echo '</div><figure class="alignright sample-thumb">';
-				the_post_thumbnail();
-				echo '</figure>';
-				echo '</article>';
-
-			else:
-				echo '<article class="sample-post  odd-row">';
-				echo '<figure class="alignleft sample-thumb">';
-				the_post_thumbnail();
-				echo '</figure>';
-
-				echo '<div class="sample-entry"><h2 class="sample-title post-title">' . $title . '</h2>';
-				the_excerpt();
-				echo '</div></article>';
-
-			endif;
-
-		endwhile;
-
-	endif;
-
-	wp_reset_query();
-	return ob_get_clean();
-}
-
 // copyright
 function high_copyright()
 {
@@ -512,16 +459,18 @@ function high_save_cat($term_id)
 add_filter('excerpt_length', 'high_excerpt_length', 999);
 function high_excerpt_length($length)
 {
-	return 35;
+	return 15;
 }
 
-add_filter('get_the_excerpt', 'new_excerpt_more');
-function new_excerpt_more($excerpt)
+function wpdocs_excerpt_more($more)
 {
-	return $excerpt . '<a class="read-more" href="' . get_the_permalink() . '" rel="nofollow"> Read More<span class="icons"> >> </span></a>';
+	return sprintf(
+		'<a href="%1$s" class="more-link">%2$s</a>',
+		esc_url(get_permalink(get_the_ID())),
+		sprintf(__('Continue reading %s', 'wpdocs'), '<span class="screen-reader-text">' . get_the_title(get_the_ID()) . '</span>')
+	);
 }
-
-add_filter('excerpt_more', '__return_false');
+add_filter('excerpt_more', 'wpdocs_excerpt_more', 999);
 
 
 function high_thumb()
@@ -618,7 +567,7 @@ add_action('wp_mail_failed', 'mail_failure', 10, 1);
 
 
 
-
+/*** optimize scripts ***/
 // defer stylesheets                                                        
 add_filter('style_loader_tag', 'high_defer_styles', 10, 2);
 function high_defer_styles($html, $handle)
@@ -629,7 +578,6 @@ function high_defer_styles($html, $handle)
 	}
 	return $html;
 }
-
 
 //defer js                                                      
 add_filter('script_loader_tag', 'defer_parsing_of_js', 10);
@@ -647,8 +595,6 @@ function defer_parsing_of_js($url)
 	return str_replace(' src', ' defer src', $url);
 
 }
-
-
 
 function disable_emoji_feature()
 {

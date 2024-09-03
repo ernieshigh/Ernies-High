@@ -288,3 +288,4 @@ function high_sidebar()
 		'after_title' => '</h3>',
 	));
 }
+

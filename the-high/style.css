@@ -590,7 +590,7 @@ pre.xdebug-var-dump {
 .post-content {
     display: flex;
     flex-flow: column;
-    flex: 1; 
+    flex: 32%; 
     min-height: 100%;
     padding: 1em;
     margin: 1em 0;

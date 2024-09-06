@@ -265,5 +265,4 @@ async function getWPPosts() {
 	console.log( posts ); 
 
 }
-
-getWPPosts();
+ 

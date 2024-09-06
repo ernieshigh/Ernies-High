@@ -141,6 +141,9 @@ main{
 	padding-top: 110px;
 	overflow: hidden;
 }
+.filter-main{
+	display: block;
+}
 
 .single-main{padding-top: 235px;}
 
@@ -863,8 +866,8 @@ section.filter-section {
 
 
 .row.filter-cat-row {
-    flex-flow: row nowrap;
-	justify-content: space-between;
+	display: grid;
+	grid-template-columns: 1fr 3fr;
 	
 }
 

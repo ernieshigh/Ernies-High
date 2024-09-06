@@ -12,8 +12,14 @@ get_header();
 ?>
 
 
-<div class="main">
+<div class="main filter-main">
+	<section class="post-content">
+		<div class="row">
 
+			<?php the_content(); ?>
+
+		</div>
+	</section>
 	<section class="filter-section">
 
 
@@ -71,6 +77,8 @@ get_header();
 				</div>
 			</div>
 			<div class="filter-col right-col">
+
+
 				<div class="filter-notice hide-desk">
 					<article class="filter-content">
 						<div class="filter-text">

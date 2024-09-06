@@ -26,7 +26,7 @@ function high_name_setup()
 	load_theme_textdomain('the-high', get_template_directory() . '/languages');
 
 	//add post format
-	add_theme_support('post-formats', array('aside', 'gallery', ));
+	add_theme_support('post-formats', array('aside', 'gallery', 'excerpts'));
 
 	//adds title in head
 	add_theme_support("title-tag");
@@ -289,3 +289,16 @@ function high_sidebar()
 	));
 }
 
+
+// high excerpts
+add_filter('excerpt_length', 'high_excerpt_length', 999);
+function high_excerpt_length($length)
+{
+	return 15;
+}
+function new_excerpt_more($more)
+{
+	global $post;
+	return '<a class="moretag" href="' . get_permalink($post->ID) . '"> Read the full article...</a>';
+}
+add_filter('excerpt_more', 'new_excerpt_more');

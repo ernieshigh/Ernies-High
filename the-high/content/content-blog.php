@@ -43,15 +43,15 @@ global $post;
 
 					<div class="post-entry">
 						<?php the_post_thumbnail(); ?>
-						<?php the_excerpt('high_excerpt_length', 'high_excerpt_more'); ?>
+						<?php the_excerpt(); ?>
 					</div>
 
 
 
 					<footer class="entry-meta">
 						<span class="meta-prep meta-prep-author small"><?php _e(' By  ', 'the-high'); ?></span>
-						<span class="author vcard"><?php echo get_avatar(get_the_author_meta('ID'), 32); ?> <a
-								class="url fn n" href="<?php echo get_author_posts_url(get_the_author_meta('ID')); ?>"
+						<span class="author vcard"><?php echo get_avatar(get_the_author_meta('ID'), 32); ?> <a class="url fn n"
+								href="<?php echo get_author_posts_url(get_the_author_meta('ID')); ?>"
 								title="<?php printf(__(' View all articles by %s ', 'the-high'), the_author_meta('display_name', 25)); ?>">
 								<?php the_author(); ?></a></span>
 

@@ -180,12 +180,13 @@ main{
 .container.page-container{padding: 1em;}
 
 .row{
-	display: flex;
-	flex-flow: row wrap;
+	display: grid;
+grid-template-columns: 1fr 1fr 1fr;
 	justify-content: space-around;
 	align-content: center;
 	padding: 1em 0;
 	margin: 0 auto;
+	gap: .5rem;
 }
 
 .loop-row{
@@ -201,8 +202,7 @@ main{
 .row.yoga-row,
 .row.widget-row{padding: 0;}
 
-
-.single-sample .row{flex-wrap: wrap;}
+ 
 
 
 /*** Header ***/
@@ -601,8 +601,9 @@ pre.xdebug-var-dump {
 }
  
 .entry-meta {       
-    display: flex;
-    align-items: center;
+    display: flex; 
+	justify-content: flex-start;
+    align-items: flex-start;
     gap: 5px; 
 	font-size: .75em;
 }
@@ -854,6 +855,7 @@ h2.post-title {
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 300px;
+	height: 38px;
     margin: .5rem 0;
 }
 
@@ -897,31 +899,28 @@ ul.seal-list li{
 }
 
 .result-box {
-    display: flex;
-    flex-flow: row wrap; 
-	justify-content: safe;
-	margin: .5em auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	justify-content: space-around;
+	align-content: center;
+	padding: 1em 0;
+	margin: 0 auto;
+	gap: .5rem;
 }
 
 .filtered-content{
 	display: flex;
 	flex-flow: row wrap;
-	flex: 0 0 22.5%;
-	margin: .5rem;
-	gap: 1em; 
+	margin: 1em 0; 
 }
+ 
 
-.filtered-content .entry-meta { 
-    flex-flow: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-}
-
-.filtered-content  figure {
-    flex: 0 0 150px;
-	max-height: 135px;
+.filtered-content .entry-meta p{
 	margin: 0;
-} 
+	font-size: 16px;
+}
+
+ 
 
 .cat-menu {
     padding: 0;

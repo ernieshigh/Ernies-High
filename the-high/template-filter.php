@@ -45,7 +45,7 @@ get_header();
 					foreach ($parent as $pterm) {
 
 						$tax_image = get_term_meta($pterm->term_id, 'high_img', true);
-						$catImg = wp_get_attachment_image($tax_image, array(), "", array("class" => "img-responsive"));
+						$catImg = wp_get_attachment_image($tax_image, array(), false, array("class" => "img-responsive"));
 
 
 						echo '<ul id="cat-' . $pterm->slug . '" class="download-cat "  >';
@@ -98,7 +98,7 @@ get_header();
 						</p>
 					</div>
 					<article class="filter-content">
-						<?php get_template_part('content/content', 'blog'); ?>
+						<?php get_template_part('content/content', 'filter'); ?>
 
 					</article>
 

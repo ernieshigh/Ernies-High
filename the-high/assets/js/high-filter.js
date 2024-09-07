@@ -55,6 +55,7 @@ $(document.body).on('change', '.download-items input[type="checkbox"]', function
 	$('a.remove-filters').show();
 	
 	var cat = [],
+		parent = [],
 		selector = $('input'),
 		selection = $(this),
 		selected = $(this).attr('checked'),
@@ -67,13 +68,10 @@ $(document.body).on('change', '.download-items input[type="checkbox"]', function
 				
 				
 		$('.sub-cats:checked').each(function(i, e) {
-				cat.unshift($(this).val());
+			cat.unshift($(this).val()); 
 		});
 		
-		
 		var checkVal = $(this).val();
-	
-		
 	if($(selection).attr("checked")){
 			$(selection).attr('checked', false);
 			$(topUl).removeClass('active');
@@ -96,13 +94,22 @@ $(document.body).on('change', '.download-items input[type="checkbox"]', function
 			
 			$('.sub-cats:checked').each(function() {
 				cat.push($(this).val());
+	parent.push(pcat);
 			});
 			
 			cat.push(sub);
-			console.log('this cat added ' + sub)
+		console.log('this cat added ' + sub)
+		
+		 
+		
+		 
 		}
 			cat = unique(cat);  
 			
+	parent = unique(parent);  
+	
+			
+	console.log( 'This is a parent ' + pcat + 'this is all the ps ' + parent.toString())
 		// get filter posts
 		$('.filter-results').fadeOut();
 		
@@ -210,7 +217,7 @@ $(document.body).on('change', '.download-items input[type="checkbox"]', function
 						var opened = $(this).find('li.' + ele + ':not(.nada) input').attr('checked', 'checked');
 
 					$(opened).parents('ul').addClass('active');
-					console.log(opened)
+					//console.log(opened)
 					
 					}) 
 					

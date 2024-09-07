@@ -21,11 +21,15 @@ function high_filter_posts()
 
 
 	$cats = [];
+	$parents = [];
 
 	if (isset($_POST['cat'])) {
 		$cats = $_POST['cat'];
 	}
-	$pcat = $_POST['pcat'];
+	if (isset($_POST['pcat'])) {
+		$pcat = $_POST['pcat'];
+	}
+
 	$sub = $_POST['sub'];
 	$slug = '';
 	$tag_count = 0;
@@ -33,9 +37,11 @@ function high_filter_posts()
 	$seal_tag = [];
 	$total = 0;
 
-
 	$output = '';
 	$output .= '<div class="filter-content"></div>';
+
+
+
 
 
 	if (!empty($cats)):
@@ -54,20 +60,23 @@ function high_filter_posts()
 
 
 
+
+
 		foreach ($terms as $term) {
 			$seal = $term->slug;
 			$termID = $term->term_id;
 			$name = $term->name;
 			$description = $term->description;
+			$parent = $term->parent;
+
 
 			$tag_query = array(
 				'taxonomy' => 'category',
 				'field' => 'slug',
-				'terms' => $seal,
+				'terms' => $parent,
 				'operator' => 'AND', //narrows results, use 'IN' to expand
 
 			);
-
 
 
 			$args = array(
@@ -109,7 +118,7 @@ function high_filter_posts()
 
 				$output .= '<section class="filter-wrap">';
 				$output .= '<div class="results">';
-				$output .= '<div class="tag-intro">';
+				$output .= '<div id="' . $seal . '" class="tag-intro">';
 
 
 
@@ -122,7 +131,7 @@ function high_filter_posts()
 
 				$output .= '</div> <!-- end tag-intro -->';
 
-				$output .= '<div  id="' . $seal . '" class="result-box">';
+				$output .= '<div   class="result-box">';
 
 				while ($filter_query->have_posts()):
 					$filter_query->the_post();
@@ -138,17 +147,27 @@ function high_filter_posts()
 					$author_id = get_the_author_meta('ID');
 					$author = get_the_author_meta('display_name', $author_id);
 
+					$cats = get_the_category_list(__(', ', 'the-high'));
+
+
 					$output .= '<div class="filtered-content">';
-					$output .= '<figure>';
-					$output .= get_the_post_thumbnail($post->ID, array('70', '70'), array('class' => 'alignleft'));
-					$output .= '</figure>';
-					$output .= '<div class="entry-meta">';
-					$output .= '<a href="' . get_permalink($post->ID) . '" class="readmore"> <h4 class="' . $pcat . ' ' . $sub . '">' . $title . '</h4>';
-					$output .= '<span class="meta-prep meta-prep-author">By </span> ' . $author . '</a>';
-					$output .= '<p>';
-					$output .= $result;
-					$output .= '</p></div><!-- end meta -->';
-					$output .= '</div> <!-- end content -->';
+					$output .= '<h2 class="post-title"><a href="' . $link . '" rel="bookmark"  >' . $title . '</a></h2>';
+					if ($cats):
+
+
+						$output .= '<div class="post-entry">';
+						$output .= get_the_post_thumbnail($post->ID, array('300', '300'), array('class' => 'aligncenter'));
+						$output .= '<p>';
+						$output .= $result;
+						$output .= '</p>';
+						$output .= '</div>';
+						$output .= '<footer class="entry-meta">';
+						$output .= '<span class="meta-prep meta-prep-author small"> By  </span>';
+						$output .= '<span class="author vcard">' . get_avatar(get_the_author_meta('ID'), 32);
+						$output .= '<span class="meta-prep meta-prep-author">By' . $author . '</span>';
+						$output .= '<span class="cat-meta cat-links">' . $cats . ' </span>';
+					endif;
+					$output .= '</footer></div>';
 
 				endwhile;
 

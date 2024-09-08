@@ -17,8 +17,9 @@ global $post;
 	?>
 	<div class="row filter-row">
 		<?php
-		$paged = get_query_var('paged') ? get_query_var('paged') : 1;
-		$sticky = get_option('sticky_posts');
+		
+		
+		$paged = get_query_var('paged') ? get_query_var('paged') : 1; 
 
 		$args = array(
 			'paged' => $paged,
@@ -69,9 +70,13 @@ global $post;
 				</article>
 
 			<?php endwhile; ?>
-		<?php endif; ?>
+			
+<!-- pagination --> 
+	<?php high_pagination(); ?>
+			
+<?php wp_reset_postdata(); ?>
+		<?php	endif; ?>
 
 
 	</div>
-	<?php high_pagination(); ?>
 </div> <!-- this is the blog -->

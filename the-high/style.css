@@ -180,17 +180,19 @@ main{
 .container.page-container{padding: 1em;}
 
 .row{
-	display: grid;
-grid-template-columns: 1fr 1fr 1fr;
+	display: flex;
+	flex-flow: row nowrap;
 	justify-content: space-around;
 	align-content: center;
 	padding: 1em 0;
 	margin: 0 auto;
-	gap: .5rem;
+	gap: 1rem;
 }
 
+.filter-row,
 .loop-row{
-	flex-flow: row  wrap;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 	justify-content: center;
 }
 
@@ -908,9 +910,7 @@ ul.seal-list li{
 	gap: .5rem;
 }
 
-.filtered-content{
-	display: flex;
-	flex-flow: row wrap;
+.filtered-content{ 
 	margin: 1em 0; 
 }
  

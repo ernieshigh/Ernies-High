@@ -474,8 +474,7 @@ function high_thumb()
 
 }
 // add pagination to blog pages
-function high_pagination()
-{
+function high_pagination(){
 
 
 	global $wp_query;

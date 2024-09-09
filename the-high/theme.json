@@ -162,7 +162,7 @@
 		},
 		"typography": {
 			"fontSize": "var(--wp--preset--font-size--extra-small)",
-			"fontFamily": "var(--wp--preset--font-family--system)",
+			"fontFamily": "var("Noto Sans", sans-serif)",
 			"lineHeight": "1.25"
 		},
 		"elements": {

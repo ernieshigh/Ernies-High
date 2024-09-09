@@ -474,7 +474,8 @@ function high_thumb()
 
 }
 // add pagination to blog pages
-function high_pagination(){
+function high_pagination()
+{
 
 
 	global $wp_query;
@@ -551,7 +552,7 @@ add_action('wp_mail_failed', 'mail_failure', 10, 1);
 
 /*** optimize scripts ***/
 // defer stylesheets                                                        
-add_filter('style_loader_tag', 'high_defer_styles', 10, 2);
+//add_filter('style_loader_tag', 'high_defer_styles', 10, 2);
 function high_defer_styles($html, $handle)
 {
 	$handles = array('block-library', 'wpb-google-fonts', 'default', 'icons', 'high-team', 'contact-form-7');

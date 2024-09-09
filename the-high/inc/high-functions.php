@@ -552,10 +552,10 @@ add_action('wp_mail_failed', 'mail_failure', 10, 1);
 
 /*** optimize scripts ***/
 // defer stylesheets                                                        
-//add_filter('style_loader_tag', 'high_defer_styles', 10, 2);
+add_filter('style_loader_tag', 'high_defer_styles', 10, 2);
 function high_defer_styles($html, $handle)
 {
-	$handles = array('block-library', 'wpb-google-fonts', 'default', 'icons', 'high-team', 'contact-form-7');
+	$handles = array('block-library', 'default', 'icons', 'high-team', 'contact-form-7');
 	if (in_array($handle, $handles)) {
 		$html = str_replace('media=\'all\'', 'media=\'print\' onload="this.onload=null;this.media=\'all\'"', $html);
 	}

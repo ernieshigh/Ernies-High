@@ -195,7 +195,6 @@ function high_scripts()
 	wp_dequeue_style('wc-blocks-style'); // Remove WooCommerce block CSS
 
 	wp_enqueue_style('default', get_stylesheet_directory_uri() . '/assets/css/fallback.css');
-	wp_enqueue_style('wpb-google-fonts', 'https://fonts.googleapis.com/css2?family=Open+Sans&family=Source+Sans+3&display=swap', false);
 	wp_enqueue_style('high-style', get_stylesheet_uri());
 
 

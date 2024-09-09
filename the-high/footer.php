@@ -1,7 +1,6 @@
 <?php
 // footer template for Basic Theme
 
-$year = date('Y');
 ?>
 
 <footer id="footer">
@@ -47,7 +46,8 @@ $year = date('Y');
 
 				<p class="foot-text">
 					<?php _e('All Rights Reserved.&copy; Copyright 2013-', 'the-high');
-					echo date('Y'); ?> </p>
+					echo date('Y'); ?>
+				</p>
 			</div>
 		</div>
 

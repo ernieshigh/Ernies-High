@@ -72,11 +72,11 @@ global $post;
 			<?php endwhile; ?>
 			
 <!-- pagination --> 
+		<?php	endif; ?>
+
 	<?php high_pagination(); ?>
 			
 <?php wp_reset_postdata(); ?>
-		<?php	endif; ?>
-
 
 	</div>
 </div> <!-- this is the blog -->

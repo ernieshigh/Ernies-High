@@ -23,7 +23,7 @@ $taxonomies = get_object_taxonomies(array('post_type' => $cpt));
 
 		$paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
 		$args = array(
-			'posts_per_page' => 6,
+			'posts_per_page' => 9,
 			'post_type' => $cpt,
 			'paged' => $paged,
 		);

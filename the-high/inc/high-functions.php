@@ -548,7 +548,7 @@ function mail_failure($wp_error)
 }
 add_action('wp_mail_failed', 'mail_failure', 10, 1);
 
-
+add_filter('litespeed_ucss_per_pagetype', '__return_true');
 
 /*** optimize scripts ***/
 // defer stylesheets                                                        

@@ -123,7 +123,7 @@ function high_filter_posts()
 
 
 
-				$output .= '<h3><a href="' . get_tag_link($term->term_id) . '">' . sprintf(__(' %s ', 'the-high'), $name) . ' ' . __('Articles ', 'the-high') . '</a></h3>';
+				$output .= '<h2><a href="' . get_tag_link($term->term_id) . '">' . sprintf(__(' %s ', 'the-high'), $name) . ' ' . __('Articles ', 'the-high') . '</a></h2>';
 
 				if ($description) {
 					$output .= '<p>' . $description . '</p>';
@@ -141,7 +141,7 @@ function high_filter_posts()
 					$link = get_post_permalink();
 					$thumb = '';
 					$excerpt = get_the_excerpt();
-					$excerpt = substr($excerpt, 0, 120);
+					$excerpt = substr($excerpt, 0, 80);
 					$result = substr($excerpt, 0, strrpos($excerpt, ' '));
 
 					$author_id = get_the_author_meta('ID');
@@ -151,14 +151,14 @@ function high_filter_posts()
 
 
 					$output .= '<div class="filtered-content">';
-					$output .= '<h2 class="post-title"><a href="' . $link . '" rel="bookmark"  >' . $title . '</a></h2>';
+					$output .= '<h3 class="post-title"><a href="' . $link . '" rel="bookmark"  >' . $title . '</a></h3>';
 					if ($cats):
 
 
 						$output .= '<div class="post-entry">';
 						$output .= get_the_post_thumbnail($post->ID, array('300', '300'), array('class' => 'aligncenter'));
 						$output .= '<p>';
-						$output .= $result;
+						$output .= $excerpt;
 						$output .= '</p>';
 						$output .= '</div>';
 						$output .= '<footer class="entry-meta">';

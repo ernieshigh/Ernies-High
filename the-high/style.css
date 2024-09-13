@@ -448,7 +448,7 @@ h1{margin-bottom: 0;}
 
 h2{
 	margin-bottom: 0;
-    font-size: 1.5em;
+    font-size: 2rem;
 }
 
 h2.member-name,
@@ -478,12 +478,13 @@ h4{
 	overflow-wrap: break-word;
 }
 
-h2.post-title {
+h3.post-title {
+    max-width: 300px;
+    margin: .5rem auto;
+	font-weight: 300;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    max-width: 300px;
-    margin: .5rem auto;
 }
 
 /***  Page Content ****/
@@ -869,11 +870,13 @@ section.filter-section {
     padding: 1em;
 }
 
+.filter-wrap{padding: 1rem;}
+
+.tag-intro{ margin-top: 2rem;}
 
 .row.filter-cat-row {
 	display: grid;
 	grid-template-columns: 1fr 3fr;
-	
 }
 
 
@@ -885,7 +888,8 @@ section.filter-section {
     flex: 0 0 75%;
 }
 
-p.notice{    margin: .5em;
+p.notice{    
+	margin: .5em;
     font-size: .8em;
 }
 
@@ -906,13 +910,13 @@ ul.seal-list li{
 	grid-template-columns: 1fr 1fr 1fr;
 	justify-content: space-around;
 	align-content: center;
-	padding: 1em 0;
+	padding: 0 1em;
 	margin: 0 auto;
 	gap: .5rem;
 }
 
 .filtered-content{ 
-	margin: 1em 0; 
+	margin: 0; 
 }
  
 

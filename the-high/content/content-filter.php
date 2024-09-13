@@ -17,9 +17,9 @@ global $post;
 	?>
 	<div class="row filter-row">
 		<?php
-		
-		
-		$paged = get_query_var('paged') ? get_query_var('paged') : 1; 
+
+
+		$paged = get_query_var('paged') ? get_query_var('paged') : 1;
 
 		$args = array(
 			'paged' => $paged,
@@ -34,8 +34,8 @@ global $post;
 				$query->the_post(); ?>
 
 				<article <?php post_class('filtered-content '); ?>>
-					<h2 class="post-title"><a href="<?php the_permalink() ?>" rel="bookmark"
-							title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
+					<h3 class="post-title"><a href="<?php the_permalink() ?>" rel="bookmark"
+							title="Permanent Link to <?php the_title_attribute(); ?>"><?php the_title(); ?></a></h3>
 
 
 					<div class="post-entry">
@@ -70,13 +70,13 @@ global $post;
 				</article>
 
 			<?php endwhile; ?>
-			
-<!-- pagination --> 
-		<?php	endif; ?>
 
-	<?php high_pagination(); ?>
-			
-<?php wp_reset_postdata(); ?>
+			<!-- pagination -->
+		<?php endif; ?>
+
+		<?php high_pagination(); ?>
+
+		<?php wp_reset_postdata(); ?>
 
 	</div>
 </div> <!-- this is the blog -->

@@ -47,6 +47,7 @@ html {
 
 html,
 body { 
+	background: red;
 	width: 100%;
 	height: auto;
 	margin: 0;

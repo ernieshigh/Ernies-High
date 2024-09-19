@@ -17,3 +17,8 @@ Version 0.1.2
 Version 0.1.3
 *** Add theme.json 
 *** fix some WordPress issues
+
+
+Version 0.1.4
+* Update stylesheet
+* 

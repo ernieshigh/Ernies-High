@@ -34,7 +34,8 @@ include get_theme_file_path('/inc/high-form.php');
 
 		</div>
 		<div class="form-wrap">
-			<form id="high_contact" class="high-form contact-form" method="POST" action="">
+			<form id="high_contact" class="high-form contact-form" method="POST"
+				action="<?php echo home_url(); ?>/wp-content/themes/the-high/inc/high-form.php">
 
 				<small class="error-message"></small>
 				<input type="text" id="high_name" name="high_name" placeholder="Name">

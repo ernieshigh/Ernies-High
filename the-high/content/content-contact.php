@@ -34,7 +34,7 @@ include get_theme_file_path('/inc/high-form.php');
 
 		</div>
 		<div class="form-wrap">
-			<form id="high_contact" class="high-form contact-form" onsubmit="return validate()" action="" method="POST">
+			<form id="high_contact" class="high-form contact-form" onsubmit="return validate()" method="POST">
 
 				<small class="error-message"></small>
 				<input type="text" id="high_name" name="high_name" placeholder="Name">

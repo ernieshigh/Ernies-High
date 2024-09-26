@@ -148,7 +148,126 @@ img.featured.wp-post-image
 {
 	min-height: 90px;
 }
+input,
+button,
+textarea,
+select
+{
+	font: inherit;
+	line-height: inherit;
+	color: inherit;
+}
 
+input,
+button,
+textarea,
+select
+{
+	font: inherit;
+	line-height: inherit;
+	color: inherit;
+}
+
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+button,
+[role="button"]
+{
+	cursor: pointer;
+	background-color: transparent;
+	&:focus
+	{
+		outline: 0;
+	}
+}
+
+p
+{
+	margin: .3em 0;
+	font-size: 1.15em;
+}
+
+a
+{
+	cursor: pointer;
+	color: #347B98;
+	text-decoration: none;
+	&:hover,
+	:focus
+	{
+		color: #66B032;
+	}
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+	margin: 1em auto;
+	color: #375F1B;
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+}
+
+
+[type="date"],
+[type="datetime"],
+[type="datetime-local"],
+[type="email"],
+[type="month"],
+[type="number"],
+[type="password"],
+[type="search"],
+[type="tel"],
+[type="text"],
+[type="time"],
+[type="url"],
+[type="week"],
+textarea,
+select
+{
+	appearance: none;
+	width: 100%;
+	&:focus
+	{
+		outline: 0;
+	}
+}
+
+::-moz-placeholder
+{
+	opacity: 1;
+}
+
+textarea
+{
+	vertical-align: top;
+	overflow: auto;
+	resize: both;
+}
+
+[type="checkbox"],
+[type="radio"]
+{
+	appearance: none;
+	&:focus
+	{
+		outline: 0
+	}
+}
 
 
 
@@ -941,37 +1060,16 @@ p.post-nav-links a
 {
 	background-color: transparent;
 	width: 100%;
-	max-width: 840px;
+	max-width: 480px;
 	margin: 1em auto;
-	padding: 1em;
+	padding: 0;
 	color: #f8f8f8;
 	font-size: 14px;
 	border-radius: 6px;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-
-form
-{
-	display: flex;
-	flex-flow: column;
-}
-
-
-.form-control
-{
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: flex-start;
-}
-
-.high-form label
-{
-	flex-basis: 100%;
-	padding: 6px 12px 0 0;
-	color: #5bb959;
-	font-size: 14px;
-}
+/*
 
 
 .high-form input,
@@ -998,20 +1096,12 @@ form
 	font-size: 110%;
 	border-color: #222;
 }
-/* 
-.high-form textarea:valid ,
-.high-form select:valid ,
-.high-form input:valid {
-  border-color: #5bb959;
-}
-		
- */
 
-/** form **/
+*/
 .form-wrap
 {
 	position: relative;
-	background-image: url(../image/pic113.jpg);
+	background-image: url(assets/images/pic113.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -1147,8 +1237,8 @@ form
 	max-width: 325px;
 	margin: 1em auto;
 	padding: 6px 16px;
-	color: #5bb959;
-	border: 1px solid #5bb959;
+	color: #fff;
+	border: 1px solid #fff;
 	border-radius: 5px;
 }
 

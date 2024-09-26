@@ -1,26 +1,26 @@
 <?php
 /***
-	*
-	*  Process Contact Form 
-	*  Send email and add data to database
-	*
-***/
+ *
+ *  Process Contact Form 
+ *  Send email and add data to database
+ *
+ ***/
 
-global $wpdb; 
+global $wpdb;
 
-if(isset($_POST['high_submit'])){
+if (isset($_POST['high_submit'])) {
 
-	$contact_name =  $_POST['high_name'];   
-	$contact_email =  $_POST['high_email'];
-	$contact_reason =  $_POST['high_reason'];
-	$contact_subject =  $_POST['high_subject'];
-	$contact_message =  $_POST['high_message'];
+	$contact_name = $_POST['high_name'];
+	$contact_email = $_POST['high_email'];
+	$contact_reason = $_POST['high_reason'];
+	$contact_subject = $_POST['high_subject'];
+	$contact_message = $_POST['high_message'];
 	$high_human = $_POST['high_human'];
-	
-	  
+
+
 	$to = "erniehightower@gmail.com";  //recipient email address
 	$subject = 'A request from Ernies High  "' . $contact_subject . ' "';  //Subject of the email
-	
+
 	//Message content to send in an email
 	$message = '<!DOCTYPE html>
 		<html lang="en" xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -78,27 +78,25 @@ if(isset($_POST['high_submit'])){
 			<tr><th><img src="https://ernieshigh.dev/img/Basic%20High.webp" width="125" height="125" alt="Ernies High"></th></tr><tr><th  style="color: #58A445; font-weight: 400; line-height: 100%;">';
 	$message .= '<h2 style="font-weight: 400;"> A contact request from Ernies High </h2>';
 	$message .= '</th></tr><tr><td  style="color: #222; ">';
-	$message .= '<p> Hey there ' . $contact_name . ' has reached out and has requested you contact them concerning " ' .  $contact_reason . ' ".</p>';
+	$message .= '<p> Hey there ' . $contact_name . ' has reached out and has requested you contact them concerning " ' . $contact_reason . ' ".</p>';
 	$message .= '<p>Their message is:</p>';
 	$message .= '<p>"' . $contact_message . '"</p>';
 	$message .= '</td></tr></table>';
 	$message .= '</body></html>';
-	
-	
-	 
-	
+
+
+
+
 	//Email headers
-	$headers = array('Content-Type: text/html; charset=UTF-8', 'From: Ernies High <ernie@ernieshigh.dev>', 'Reply-To: <' . $contact_email . ' >' );
-	
-	if(!empty($high_human)){
-		return;
-	}else{
-		//Send email  
-		wp_mail( $to, $subject, $message, $headers );
-	}
-	
-	
-	
-	
-	 
+	$headers = array('Content-Type: text/html; charset=UTF-8', 'From: Ernies High <ernie@ernieshigh.dev>', 'Reply-To: <' . $contact_email . ' >');
+
+
+	//Send email  
+	wp_mail($to, $subject, $message, $headers);
+
+
+
+
+
+
 }

@@ -44,7 +44,7 @@ include get_theme_file_path('/inc/high-form.php');
 						class="error-message"></small><input type="email" id="high_email" name="high_email">
 				</div>
 				<div class="form-control">
-					<label for="high_reason">Reason for contacing me<span class="red">*</span></label>
+					<label for="high_reason">Reason for contacting me<span class="red">*</span></label>
 					<small class="error-message"></small>
 					<select id="high_reason" name="high_reason" ">
 					<option value="">Choose a reason</option>

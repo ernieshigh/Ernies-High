@@ -205,10 +205,7 @@ function high_scripts()
 		wp_deregister_script('jquery');
 	}
 
-	if (is_page(441)) {
 
-		wp_enqueue_script('recaptcha', 'https://www.google.com/recaptcha/api.js', array(), false);
-	}
 	if (is_page(198)) {
 		wp_enqueue_script('scroll', 'https://unpkg.com/scroll-out/dist/scroll-out.min.js', array(), false);
 	}

@@ -34,9 +34,7 @@ include get_theme_file_path('/inc/high-form.php');
 
 		</div>
 		<div class="form-wrap">
-			<form id="high_contact" class="high-form contact-form" method="POST"
-				action="<?php echo esc_url(admin_url('admin-post.php')); ?>" enctype="multipart/form-data"
-				autocomplete="off" accept-charset="utf-8">
+			<form id="high_contact" class="high-form contact-form" method="POST" action="">
 
 				<small class="error-message"></small>
 				<input type="text" id="high_name" name="high_name" placeholder="Name">

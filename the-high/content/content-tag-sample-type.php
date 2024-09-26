@@ -58,10 +58,9 @@ $type = $query_object->slug;
 
 					<footer class="entry-meta">
 						<span class="meta-prep meta-prep-author"><?php _e('By ', 'the-high'); ?></span>
-						<span class="author vcard"><?php echo get_avatar(get_the_author_meta('ID'), 32); ?> <a
-								class="url fn n" href="<?php echo get_author_posts_url(get_the_author_meta('ID')); ?>"
-								title="<?php printf(__(' View all articles by %s ', 'the-high'));
-								echo the_author_meta('display_name'); ?>">
+						<span class="author vcard"><?php echo get_avatar(get_the_author_meta('ID'), 32); ?> <a class="url fn n"
+								href="<?php echo get_author_posts_url(get_the_author_meta('ID')); ?>" title="<?php //printf(__(' View all articles by %s ', 'the-high'));
+								   		echo the_author_meta('display_name'); ?>">
 								<?php the_author(); ?></a></span>
 
 						<span class="sample-terms"> <span class="meta-prep">Type: </span>

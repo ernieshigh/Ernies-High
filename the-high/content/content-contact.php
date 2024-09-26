@@ -37,13 +37,12 @@ include get_theme_file_path('/inc/high-form.php');
 			<form id="high_contact" class="high-form contact-form" onsubmit="return validate()" action="high-form.php"
 				method="POST">
 
-				<label for="high_name">Name: <span class="red">*</span> </label><small
-					class="error-message"></small><input type="text" id="high_name" name="high_name">
+				<small class="error-message"></small>
+				<input type="text" id="high_name" name="high_name" placeholder="Name">
 
-				<label for="high_email">Email: <span class="red">*</span> </label><small
-					class="error-message"></small><input type="email" id="high_email" name="high_email">
+				<small class="error-message"></small>
+				<input type="email" id="high_email" name="high_email" placeholder="Email">
 
-				<label for="high_reason">Reason for contacting me<span class="red">*</span></label>
 				<small class="error-message"></small>
 				<select id="high_reason" name="high_reason" ">
 					<option value="">Choose a reason</option>
@@ -52,11 +51,11 @@ include get_theme_file_path('/inc/high-form.php');
 					<option value="Just want to talk to someone">Just want to talk to someone</option>
 				</select>
 
-				<label for="high_subject">Subject: <span class="red" class="red">*</span> </label><small
-					class="error-message"></small><input type="text" id="high_subject" name="high_subject">
+				<small class="error-message"></small>
+				<input type="text" id="high_subject" name="high_subject" placeholder="Subject">
 
-				<label for="high_message">Message: <span class="red">*</span></label><small
-					class="error-message"></small> <textarea id="high_message" name="high_message"></textarea>
+				<small class="error-message"></small>
+				<textarea id="high_message" name="high_message" placeholder="Message"></textarea>
 
 				<label for="high_term" class="check"><small class="error-message"></small>
 					<input type="checkbox" id="high_term" name="high_term">
@@ -160,9 +159,9 @@ include get_theme_file_path('/inc/high-form.php');
 			});
 
 			function onSubmit(token) {
-
+				alert('wtf')
 				console.log(validate)
-				document.getElementById("high_contact").submit();
+				document.getElementById("high_submit").submit();
 			}
 
 		</script>

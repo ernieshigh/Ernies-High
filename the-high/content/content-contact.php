@@ -66,7 +66,7 @@ include get_theme_file_path('/inc/high-form.php');
 					deleted in 24hrs. Ernies High does not use cookies. <span class="red" class="red">*</span>
 				</label>
 
-				<button class="g-recaptcha" data-sitekey="6Lfj-VMqAAAAAC1_jUJ2GKogONZsXILMF-Z0eAv1"
+				<button id="high_submit" class="g-recaptcha" data-sitekey="6Lfj-VMqAAAAAC1_jUJ2GKogONZsXILMF-Z0eAv1"
 					data-callback="onSubmit">Submit</button>
 			</form>
 

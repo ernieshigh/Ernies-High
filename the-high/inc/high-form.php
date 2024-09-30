@@ -6,16 +6,16 @@
  *
  ***/
 
-global $wpdb;  
+global $wpdb;
 
 
-if(isset($_POST['high_submit'])){
+if (isset($_POST['high_submit'])) {
 	$contact_name = $_POST['high_name'];
 	$contact_email = $_POST['high_email'];
 	$contact_reason = $_POST['high_reason'];
 	$contact_subject = $_POST['high_subject'];
 	$contact_message = $_POST['high_message'];
- 
+
 
 	//$high_human = $_POST['high_human'];
 
@@ -58,7 +58,7 @@ if(isset($_POST['high_submit'])){
 				@media (max-width: 620px) {
 					  h1 {
 						font-size: 32px;
-						line-height: 1.2;
+						line-height: 1.3;
 					  }
 
 					  h2 {

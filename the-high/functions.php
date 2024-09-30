@@ -9,7 +9,6 @@ include get_theme_file_path('/inc/high-cat-filter.php');
 include get_theme_file_path('/inc/high-blocks.php');
 //include get_theme_file_path('/blocks/features.php');
 
-
 if (!function_exists('wp_body_open')) {
 	function wp_body_open()
 	{

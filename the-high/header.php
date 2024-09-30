@@ -11,14 +11,9 @@
 	<link rel="stylesheet"
 		href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap">
 
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-	<?php
-	if (is_page(441)) {
-
-		echo '<script src="https://www.google.com/recaptcha/api.js"></script>';
-	}
-
-	if (is_singular() && get_option('thread_comments'))
+	<?php if (is_singular() && get_option('thread_comments'))
 		wp_enqueue_script('comment-reply'); ?>
 
 	<?php wp_head(); ?>

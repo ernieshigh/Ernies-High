@@ -6,16 +6,18 @@
  *
  ***/
 
-global $wpdb;
+global $wpdb;  
 
-if (isset($_POST['high_submit'])) {
 
+if(isset($_POST['high_submit'])){
 	$contact_name = $_POST['high_name'];
 	$contact_email = $_POST['high_email'];
 	$contact_reason = $_POST['high_reason'];
 	$contact_subject = $_POST['high_subject'];
 	$contact_message = $_POST['high_message'];
-	$high_human = $_POST['high_human'];
+ 
+
+	//$high_human = $_POST['high_human'];
 
 
 	$to = "erniehightower@gmail.com";  //recipient email address
@@ -76,7 +78,7 @@ if (isset($_POST['high_submit'])) {
 			</style>
 			<table role="presentation" style="max-width: 1080px; margin: 0 auto; padding: 0; border: 0; border-collapse: collapse;">
 			<tr><th><img src="https://ernieshigh.dev/img/Basic%20High.webp" width="125" height="125" alt="Ernies High"></th></tr><tr><th  style="color: #58A445; font-weight: 400; line-height: 100%;">';
-	$message .= '<h2 style="font-weight: 400;"> A contact request from Ernies High </h2>';
+	$message .= '<h2 style="font-weight: 400;"> WTF request from Ernies High </h2>';
 	$message .= '</th></tr><tr><td  style="color: #222; ">';
 	$message .= '<p> Hey there ' . $contact_name . ' has reached out and has requested you contact them concerning " ' . $contact_reason . ' ".</p>';
 	$message .= '<p>Their message is:</p>';
@@ -93,10 +95,4 @@ if (isset($_POST['high_submit'])) {
 
 	//Send email  
 	wp_mail($to, $subject, $message, $headers);
-
-
-
-
-
-
 }

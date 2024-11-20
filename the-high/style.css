@@ -28,6 +28,7 @@
 9) 	Sidebars
 10) Comments
 11) Breadcrumbs
+
 12) Page Nav
 13) Forms   
 14) Buttons
@@ -1054,201 +1055,95 @@ p.post-nav-links a
 	padding: 1em;
 }
 
-/*** Forms ***/
 
-.form-section
-{
-	background-color: transparent;
+/*** Form ***/
+
+
+/*** Form ***/
+
+.form-section {
+	background-color:transparent;
 	width: 100%;
-	max-width: 480px;
+	max-width: 840px;
 	margin: 1em auto;
-	padding: 0;
+    padding: 1em;
 	color: #f8f8f8;
 	font-size: 14px;
 	border-radius: 6px;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-/*
 
 
-.high-form input,
-.high-form textarea,
-.high-form select
-{
+
+form {
+    display: flex;
+    flex-flow: column;  
+}
+
+
+.form-control{    
+	display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+} 
+
+.high-form label {
+    flex-basis: 100%; 
+    padding: 6px 12px 0 0;
+    color: #5bb959;
+    font-size: 14px;
+}
+ 
+
+.high-form input, 
+.high-form textarea, 
+.high-form select { 
 	width: 100%;
-	margin-bottom: 0.5em;
+    margin-bottom: 0.5em;
 	padding: 4px 12px;
-	border: 0.5px solid #eee;
-	border-radius: 3px;
+    border: 0.5px solid #eee;
+    border-radius: 3px;
 }
 
-.high-form input[type="checkbox"]
-{
-	width: auto;
-}
+.high-form input[type="checkbox"]{width: auto;}
 
-.high-form input:focus,
-.high-form textarea:focus,
-.high-form select:focus
-{
+.high-form input:focus, 
+.high-form textarea:focus, 
+.high-form select:focus{
 	padding: 6px 14px;
 	font-size: 110%;
 	border-color: #222;
 }
-
-*/
-.form-wrap
-{
-	position: relative;
-	background-image: url(assets/images/pic113.jpg);
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	max-width: 480px;
-	min-height: 640px;
-	padding: 0;
-	margin: 2em auto;
+/* 
+.high-form textarea:valid ,
+.high-form select:valid ,
+.high-form input:valid {
+  border-color: #5bb959;
 }
-
-.contact-form
-{
-	width: 100%;
-	height: 100%;
-	position: relative;
-	top: 0;
-	left: 0;
-	padding: 50px 70px 50px 70px;
-	background-color: rgba(159, 219, 116, 0.7);
-
-	& h3
-	{
-		color: #396aa1;
-		text-align: center;
-	}
-	h4
-	{
-		margin-top: 2em;
-		margin-bottom: 0;
-		color: #396aa1;
-	}
-
-	textarea,
-	select,
-	input
-	{
-		background-color: rgba(200, 200, 200, .7);
-		padding: 12px 16px;
-		margin: .5em auto;
-		color: rgba(57, 106, 161, 1);
-		font-size: .85rem;
-		border-radius: 16px;
-	}
-
-	input[type="checkbox"]
-	{
-		position: relative;
-		display: grid;
-		width: 22px;
-		height: 22px;
-		padding: .5em;
-		grid-template-columns: 1em auto;
-		gap: 0.5em;
-		border: 1px solid #396aa1;
-		border-radius: 0;
-
-	}
-	input[type="radio"]
-	{
-		position: absolute;
-		display: inline-block;
-		top: 22px;
-		left: 12px;
-		width: 22px;
-		height: 22px;
-		padding: 0;
-		border-radius: 50%;
-	}
-
-	label
-	{
-		position: relative;
-		display: inline-block;
-		margin: .3em;
-		color: #396aa1;
-		text-align: center
-	}
-
-	.check
-	{
-		width: auto
-	}
-
-	::placeholder,
-	select
-	{
-		color: rgba(57, 106, 161, .9);
-		appearance: auto;
-	}
-
-	input[type="text"]:focus,
-	input[type="email"]:focus,
-	input[type="tel"]:focus,
-	textarea:focus,
-	select:focus
-	{
-		background-color: #D4E4F7;
-		outline: 1px solid rgba(57, 106, 161, .9);
-		border: 1px solid #66B032;
-
-	}
-
-	input[type="radio"]:checked
-	{
-		background-color: #66B032;
-		border: 5px solid #D4E4F7;
-		box-shadow: 0 0 0 2px #396aa1;
-	}
-
-	input[type="checkbox"]:focus:after,
-	input[type="checkbox"]:checked:after
-	{
-		content: "\2713";
-		background-color: transparent;
-		position: absolute;
-		top: -18px;
-		width: 5px;
-		height: 5px;
-		color: #396aa1;
-		font-size: 32px;
-		font-weight: 800;
-	}
-
-
+		
+ */
+.error-message {
+    display: inline-block;
+    width: 100%;
 }
-.error-message
-{
-	display: inline-block;
-	width: 100%;
-}
-
-.high-form input[type="submit"]
-{
-	max-width: 325px;
-	margin: 1em auto;
-	padding: 6px 16px;
-	color: #fff;
-	border: 1px solid #fff;
-	border-radius: 5px;
+ 
+.high-form input[type="submit"] {
+    max-width: 325px;
+    margin: 1em auto;
+    padding: 6px 16px;
+    color: #5bb959;
+    border: 1px solid #5bb959;
+    border-radius: 5px;
 }
 
 .high-form input[type="submit"]:hover,
-.high-form input[type="submit"]:focus
-{
+.high-form input[type="submit"]:focus{
 	background-color: #5bb959;
 	color: #fff;
-
+	
 }
+
 
 
 /*** Buttons ***/

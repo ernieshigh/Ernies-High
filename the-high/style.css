@@ -520,17 +520,15 @@ nav.navbar
 	align-items: center;
 	width: 100%;
 	margin: 0;
-	padding: 0;
-	padding-left: 15px;
-
+	padding: 0; 
 	z-index: 999;
 }
 
 
-.nav-menu li
+.nav-menu > li
 {
 	position: relative;
-	margin-right: 2em;
+	width: 145px;
 	line-height: 1.25;
 }
 .nav-menu>li>a
@@ -561,7 +559,7 @@ nav.navbar
 {
 	position: absolute;
 	top: 21px;
-	right: -20px;
+	right: -12px;
 	left: auto;
 	content: '';
 	background-image: url(assets/images/down.svg);
@@ -571,6 +569,11 @@ nav.navbar
 	width: 10px;
 	height: 10px;
 
+}
+
+
+.nav-menu li.menu-item-has-children:hover >a:after{
+	transform: rotate(270deg);
 }
 
 li.no-link>a:hover
@@ -586,7 +589,7 @@ li.no-link>a:hover
 	justify-content: flex-start;
 	background-color: #fff;
 	width: auto;
-	min-width: 150px;
+	min-width: 120%;
 	border: 1px solid #5bb959;
 	transition-property: all;
 	transition-duration: 2s;
@@ -594,13 +597,15 @@ li.no-link>a:hover
 
 .sub-menu li
 {
+	display: inline-block;
+	width: 100%;
 	position: relative;
 	padding: .5em;
-	padding-right: 32px;
 }
 
 .sub-menu li a
 {
+	display: inline-block;
 	width: 100%;
 	padding: 4px 0;
 	color: #111630;
@@ -611,9 +616,8 @@ li.no-link>a:hover
 
 li.menu-item-has-children:hover>ul.sub-menu
 {
-	display: block;
-	top: 95%;
-	left: 0;
+	display: flex;
+	left: auto;
 	padding: 8px;
 	padding-top: 0;
 	padding-right: 0;
@@ -623,31 +627,15 @@ li.menu-item-has-children:hover>ul.sub-menu
 
 ul.sub-menu>li.menu-item-has-children:hover>ul.sub-menu
 {
-	background-color: transparent;
-	top: 0.5em;
-	left: 100%;
-	width: auto;
-	padding: 0;
-	border-top: 0;
-	border-bottom: 0;
-	border-left: 0;
-}
-
-
-ul.sub-menu>li.menu-item-has-children ul.sub-menu li
-{
+	
 	background-color: #fff;
-}
-
-ul.sub-menu>li.menu-item-has-children ul.sub-menu li:first-child
-{
+	top: 7px; 
+	left: 100%; 
+	padding: 0; 
+	border-left: 0;
 	border-top: 1px solid #5bb959;
 }
-ul.sub-menu>li.menu-item-has-children ul.sub-menu li:last-child
-{
-	border-bottom: 1px solid #5bb959;
-}
-
+ 
 
 ul.sub-menu ul>li.menu-item-has-children ul.sub-menu li:last-child:before
 {
@@ -662,8 +650,8 @@ ul.sub-menu ul>li.menu-item-has-children ul.sub-menu li:last-child:before
 ul.sub-menu li.menu-item-has-children>a:after,
 ul.sub-menu>li.menu-item-has-children ul.sub-menu li a:after
 {
-	top: 16px;
-	right: 15px;
+	top: 23px;
+	right: 28px;
 }
 
 

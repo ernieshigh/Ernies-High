@@ -67,7 +67,10 @@ include get_theme_file_path('/inc/high-form.php');
 				  var checkbox = document.getElementById('high_term');
 				  
 				  checkbox.addEventListener("click", function() {
-					checkbox.checked = !checkbox.checked; 
+					checkbox.toggleAttribute('checked'); 
+					
+					
+					alert(checkbox.checked)
 				  });
 				  
 					grecaptcha.ready(() => {

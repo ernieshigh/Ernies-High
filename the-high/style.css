@@ -1112,11 +1112,17 @@ form {
     margin-right: 1em;
     margin-bottom: 0;
     color: #222;
+} 
+
+
+input[type=checkbox]:checked:before {
+    content: "\2713";
+    position: relative;
+    top: -8px;
+    left: 2px;
+    font-size: 18px;
 }
-input[type="checkbox"]:checked {
- color: blue;
-  background-color: pink;
-}
+
 .high-form button,
 .high-form input[type="submit"] {
     max-width: 325px;

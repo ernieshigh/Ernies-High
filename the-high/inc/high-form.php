@@ -9,7 +9,20 @@
 global $wpdb;
 
 
-if (isset($_POST['high_submit'])) {
+if (isset($_POST['high_submit']) && !empty($_POST['recaptcha_response'])) {
+	
+	 $recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
+    $recaptcha_secret = '6LfgdpQqAAAAAEkxX6g77232sm5kV615qgMao5FH';
+    $recaptcha_response = $_POST['recaptcha_response'];
+
+    // Make and decode POST request:
+    $recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
+    $recaptcha = json_decode($recaptcha);
+
+    // Take action based on the score returned:
+    if ($recaptcha->score >= 0.5) {
+        // Verified - send email
+   
 	$contact_name = $_POST['high_name'];
 	$contact_email = $_POST['high_email'];
 	$contact_reason = $_POST['high_reason'];
@@ -78,7 +91,7 @@ if (isset($_POST['high_submit'])) {
 			</style>
 			<table role="presentation" style="max-width: 1080px; margin: 0 auto; padding: 0; border: 0; border-collapse: collapse;">
 			<tr><th><img src="https://ernieshigh.dev/img/Basic%20High.webp" width="125" height="125" alt="Ernies High"></th></tr><tr><th  style="color: #58A445; font-weight: 400; line-height: 100%;">';
-	$message .= '<h2 style="font-weight: 400;"> WTF request from Ernies High </h2>';
+	$message .= '<h2 style="font-weight: 400;"> A request from Ernies High </h2>';
 	$message .= '</th></tr><tr><td  style="color: #222; ">';
 	$message .= '<p> Hey there ' . $contact_name . ' has reached out and has requested you contact them concerning " ' . $contact_reason . ' ".</p>';
 	$message .= '<p>Their message is:</p>';
@@ -95,4 +108,8 @@ if (isset($_POST['high_submit'])) {
 
 	//Send email  
 	wp_mail($to, $subject, $message, $headers);
+	
+	 } else {
+        // Not verified - show form error
+    }
 }

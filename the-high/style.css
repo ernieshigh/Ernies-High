@@ -1090,11 +1090,12 @@ form {
 	width: 100%;
     margin-bottom: 0.5em;
 	padding: 4px 12px;
+	color: #222;
     border: 0.5px solid #eee;
     border-radius: 3px;
 }
 
-.high-form input[type="checkbox"]{width: auto;}
+
 
 .high-form input:focus, 
 .high-form textarea:focus, 
@@ -1103,19 +1104,20 @@ form {
 	font-size: 110%;
 	border-color: #222;
 }
-/* 
-.high-form textarea:valid ,
-.high-form select:valid ,
-.high-form input:valid {
-  border-color: #5bb959;
+
+.high-form input[type="checkbox"] {
+    width: 1em;
+    height: 1em;
+    padding: 0;
+    margin-right: 1em;
+    margin-bottom: 0;
+    color: #222;
 }
-		
- */
-.error-message {
-    display: inline-block;
-    width: 100%;
+input[type="checkbox"]:checked {
+ color: blue;
+  background-color: pink;
 }
- 
+.high-form button,
 .high-form input[type="submit"] {
     max-width: 325px;
     margin: 1em auto;
@@ -1125,6 +1127,7 @@ form {
     border-radius: 5px;
 }
 
+.high-form button:hover,
 .high-form input[type="submit"]:hover,
 .high-form input[type="submit"]:focus{
 	background-color: #5bb959;
